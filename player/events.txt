@@ -1,4 +1,4 @@
-2274
+2275
 AncestryChanged
 	2
 	child 28 Instance
@@ -2151,8 +2151,6 @@ DescendantRemoving
 ErrorMessageChanged
 	1
 	newErrorMessage 1 string
-EscapeKeyPressed
-	0
 KeyPressed
 	2
 	key 1 string
@@ -2528,6 +2526,9 @@ DescendantRemoving
 childAdded
 	1
 	child 28 Instance
+Activated
+	1
+	inputObject 28 Instance
 AncestryChanged
 	2
 	child 28 Instance
@@ -6103,6 +6104,9 @@ TouchTap
 childAdded
 	1
 	child 28 Instance
+Activated
+	1
+	inputObject 28 Instance
 AncestryChanged
 	2
 	child 28 Instance

@@ -3397,7 +3397,7 @@ UnionOperation
 	22 'Velocity' Vector3
 	23 'size' Vector3
 UserGameSettings
-	26
+	24
 	9 'AllTutorialsDisabled' bool
 	9 'Archivable' bool
 	7 'CameraMode' CustomCameraMode
@@ -3408,7 +3408,6 @@ UserGameSettings
 	7 'ControlMode' ControlMode
 	9 'Fullscreen' bool
 	11 'GamepadCameraSensitivity' float
-	7 'ImageUploadPromptBehavior' UploadSetting
 	11 'MasterVolume' float
 	11 'MouseSensitivity' float
 	1 'Name' string
@@ -3423,7 +3422,6 @@ UserGameSettings
 	9 'UsedCustomGuiIsVisibleToggle' bool
 	9 'UsedHideHudShortcut' bool
 	10 'VRRotationIntensity' int
-	7 'VideoUploadPromptBehavior' UploadSetting
 UserInputService
 	8
 	9 'Archivable' bool
