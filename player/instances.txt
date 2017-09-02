@@ -223,17 +223,23 @@ BodyAngularVelocity
 	9 'RobloxLocked' bool
 	8 'Tags' BinaryString
 BodyColors
-	10
+	16
 	9 'Archivable' bool
 	18 'HeadColor' BrickColor
+	19 'HeadColor3' Color3
 	18 'LeftArmColor' BrickColor
+	19 'LeftArmColor3' Color3
 	18 'LeftLegColor' BrickColor
+	19 'LeftLegColor3' Color3
 	1 'Name' string
 	18 'RightArmColor' BrickColor
+	19 'RightArmColor3' Color3
 	18 'RightLegColor' BrickColor
+	19 'RightLegColor3' Color3
 	9 'RobloxLocked' bool
 	8 'Tags' BinaryString
 	18 'TorsoColor' BrickColor
+	19 'TorsoColor3' Color3
 BodyForce
 	5
 	9 'Archivable' bool
