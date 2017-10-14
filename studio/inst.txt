@@ -1,0 +1,9317 @@
+293 3242 2353
+"Accessory" 65535
+	6
+	"Archivable" 9 0
+	"AttachmentPoint" 27 0
+	"BackendAccoutrementState" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ServerEquipAccoutrement" 1
+		28 65535
+	"ServerUnequipAccoutrement" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Accoutrement" 65535
+	6
+	"Archivable" 9 0
+	"AttachmentPoint" 27 0
+	"BackendAccoutrementState" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ServerEquipAccoutrement" 1
+		28 65535
+	"ServerUnequipAccoutrement" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"AdService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"ClientAdVerificationResults" 3
+		9 65535
+		10 65535
+		1 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"SendServerRecordImpression" 3
+		10 65535
+		7 110
+		9 65535
+	"ServerAdVerification" 2
+		10 65535
+		7 110
+	"VideoAdClosed" 1
+		9 65535
+	"childAdded" 1
+		28 65535
+"AdvancedDragger" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"AlignOrientation" 65535
+	15
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"MaxAngularVelocity" 11 0
+	"MaxTorque" 11 0
+	"Name" 1 0
+	"PrimaryAxisOnly" 9 0
+	"ReactionTorqueEnabled" 9 0
+	"Responsiveness" 11 0
+	"RigidityEnabled" 9 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"AlignPosition" 65535
+	15
+	"ApplyAtCenterOfMass" 9 0
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"MaxForce" 11 0
+	"MaxVelocity" 11 0
+	"Name" 1 0
+	"ReactionForceEnabled" 9 0
+	"Responsiveness" 11 0
+	"RigidityEnabled" 9 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"AnalyticsService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Animation" 65535
+	5
+	"AnimationId" 33 0
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"AnimationController" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"AnimationPlayed" 1
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Animator" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	11
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"OnAdjustSpeed" 2
+		33 65535
+		11 65535
+	"OnAdjustWeight" 3
+		33 65535
+		11 65535
+		11 65535
+	"OnPlay" 4
+		33 65535
+		11 65535
+		11 65535
+		11 65535
+	"OnSetTimePosition" 2
+		33 65535
+		11 65535
+	"OnStop" 2
+		33 65535
+		11 65535
+	"childAdded" 1
+		28 65535
+"ArcHandles" 65535
+	14
+	"Adornee" 28 0
+	"Archivable" 9 0
+	"Axes" 17 0
+	"Color3" 19 0
+	"MouseButton1DownConnectionCount" 10 0
+	"MouseButton1UpConnectionCount" 10 0
+	"MouseDragConnectionCount" 10 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	11
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseButton1Down" 1
+		7 9
+	"MouseButton1Up" 1
+		7 9
+	"MouseDrag" 3
+		7 9
+		11 65535
+		11 65535
+	"MouseEnter" 1
+		7 9
+	"MouseLeave" 1
+		7 9
+	"childAdded" 1
+		28 65535
+"AssetService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Attachment" 65535
+	6
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Backpack" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BadgeService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"BadgeAwarded" 3
+		1 65535
+		10 65535
+		10 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BallSocketConstraint" 65535
+	13
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"LimitsEnabled" 9 0
+	"Name" 1 0
+	"Radius" 11 0
+	"Restitution" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"UpperAngle" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BillboardGui" 65535
+	17
+	"Active" 9 0
+	"Adornee" 28 0
+	"AlwaysOnTop" 9 0
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"ExtentsOffset" 22 0
+	"ExtentsOffsetWorldSpace" 22 0
+	"LightInfluence" 11 0
+	"MaxDistance" 11 0
+	"Name" 1 0
+	"PlayerToHideFrom" 28 0
+	"RobloxLocked" 9 0
+	"Size" 14 0
+	"SizeOffset" 21 0
+	"StudsOffset" 22 0
+	"StudsOffsetWorldSpace" 22 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BinaryStringValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BindableEvent" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Event" 1
+		29 65535
+	"childAdded" 1
+		28 65535
+"BindableFunction" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BlockMesh" 65535
+	12
+	"Archivable" 9 0
+	"Bevel" 11 0
+	"Bevel Roundness" 11 0
+	"Bulge" 11 0
+	"LODX" 7 86
+	"LODY" 7 86
+	"Name" 1 0
+	"Offset" 22 0
+	"RobloxLocked" 9 0
+	"Scale" 22 0
+	"Tags" 8 0
+	"VertexColor" 22 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BloomEffect" 65535
+	8
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"Intensity" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Size" 11 0
+	"Tags" 8 0
+	"Threshold" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BlurEffect" 65535
+	6
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Size" 11 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BodyAngularVelocity" 65535
+	7
+	"AngularVelocity" 22 0
+	"Archivable" 9 0
+	"MaxTorque" 22 0
+	"Name" 1 0
+	"P" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BodyColors" 65535
+	16
+	"Archivable" 9 0
+	"HeadColor" 18 0
+	"HeadColor3" 19 0
+	"LeftArmColor" 18 0
+	"LeftArmColor3" 19 0
+	"LeftLegColor" 18 0
+	"LeftLegColor3" 19 0
+	"Name" 1 0
+	"RightArmColor" 18 0
+	"RightArmColor3" 19 0
+	"RightLegColor" 18 0
+	"RightLegColor3" 19 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TorsoColor" 18 0
+	"TorsoColor3" 19 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BodyForce" 65535
+	5
+	"Archivable" 9 0
+	"Force" 22 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BodyGyro" 65535
+	8
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"D" 11 0
+	"MaxTorque" 22 0
+	"Name" 1 0
+	"P" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BodyPosition" 65535
+	8
+	"Archivable" 9 0
+	"D" 11 0
+	"MaxForce" 22 0
+	"Name" 1 0
+	"P" 11 0
+	"Position" 22 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ReachedTarget" 0
+	"childAdded" 1
+		28 65535
+"BodyThrust" 65535
+	6
+	"Archivable" 9 0
+	"Force" 22 0
+	"Location" 22 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BodyVelocity" 65535
+	7
+	"Archivable" 9 0
+	"MaxForce" 22 0
+	"Name" 1 0
+	"P" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Velocity" 22 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"BoolValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 9 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		9 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		9 65535
+	"childAdded" 1
+		28 65535
+"BoxHandleAdornment" 65535
+	13
+	"Adornee" 28 0
+	"AlwaysOnTop" 9 0
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"Color3" 19 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Size" 22 0
+	"SizeRelativeOffset" 22 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseButton1Down" 0
+	"MouseButton1Up" 0
+	"MouseEnter" 0
+	"MouseLeave" 0
+	"childAdded" 1
+		28 65535
+"BrickColorValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 18 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		18 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		18 65535
+	"childAdded" 1
+		28 65535
+"CFrameValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 27 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		27 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		27 65535
+	"childAdded" 1
+		28 65535
+"CSGDictionaryService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"CacheableContentProvider" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ChangeHistoryService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"OnRedo" 1
+		1 65535
+	"OnUndo" 1
+		1 65535
+	"childAdded" 1
+		28 65535
+"CharacterMesh" 65535
+	8
+	"Archivable" 9 0
+	"BaseTextureId" 10 0
+	"BodyPart" 7 11
+	"MeshId" 10 0
+	"Name" 1 0
+	"OverlayTextureId" 10 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Chat" 65535
+	5
+	"Archivable" 9 0
+	"LoadDefaultChat" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Chatted" 3
+		28 65535
+		1 65535
+		7 21
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"ClientToServerFilterMessageSignalV2" 3
+		28 65535
+		28 65535
+		1 65535
+	"ClientToServerReportUnfilteredSignal" 4
+		1 65535
+		1 65535
+		1 65535
+		1 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ServerToClientUnderOver13FilteredResponseSignal" 6
+		28 65535
+		1 65535
+		9 65535
+		1 65535
+		1 65535
+		1 65535
+	"childAdded" 1
+		28 65535
+"ChorusSoundEffect" 65535
+	9
+	"Archivable" 9 0
+	"Depth" 11 0
+	"Enabled" 9 0
+	"Mix" 11 0
+	"Name" 1 0
+	"Priority" 10 0
+	"Rate" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ClickDetector" 65535
+	6
+	"Archivable" 9 0
+	"CursorIcon" 33 0
+	"MaxActivationDistance" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	12
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseActionReplicated" 2
+		28 65535
+		10 65535
+	"MouseClick" 1
+		28 65535
+	"MouseHoverEnter" 1
+		28 65535
+	"MouseHoverLeave" 1
+		28 65535
+	"RightMouseClick" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"mouseClick" 1
+		28 65535
+"CollectionService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ItemAdded" 1
+		28 65535
+	"ItemRemoved" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Color3Value" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 19 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		19 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		19 65535
+	"childAdded" 1
+		28 65535
+"ColorCorrectionEffect" 65535
+	9
+	"Archivable" 9 0
+	"Brightness" 11 0
+	"Contrast" 11 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Saturation" 11 0
+	"Tags" 8 0
+	"TintColor" 19 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"CompressorSoundEffect" 65535
+	12
+	"Archivable" 9 0
+	"Attack" 11 0
+	"Enabled" 9 0
+	"GainMakeup" 11 0
+	"Name" 1 0
+	"Priority" 10 0
+	"Ratio" 11 0
+	"Release" 11 0
+	"RobloxLocked" 9 0
+	"SideChain" 28 0
+	"Tags" 8 0
+	"Threshold" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ConeHandleAdornment" 65535
+	14
+	"Adornee" 28 0
+	"AlwaysOnTop" 9 0
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"Color3" 19 0
+	"Height" 11 0
+	"Name" 1 0
+	"Radius" 11 0
+	"RobloxLocked" 9 0
+	"SizeRelativeOffset" 22 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseButton1Down" 0
+	"MouseButton1Up" 0
+	"MouseEnter" 0
+	"MouseLeave" 0
+	"childAdded" 1
+		28 65535
+"Configuration" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ContentProvider" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ContextActionService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	12
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"BoundActionAdded" 4
+		1 65535
+		9 65535
+		31 65535
+		9 65535
+	"BoundActionChanged" 3
+		1 65535
+		1 65535
+		31 65535
+	"BoundActionRemoved" 3
+		1 65535
+		31 65535
+		9 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"GetActionButtonEvent" 1
+		1 65535
+	"LocalToolEquipped" 1
+		28 65535
+	"LocalToolUnequipped" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ControllerService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"CookiesService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"CoreGui" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SelectionImageObject" 28 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"CornerWedgePart" 373
+	48
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"CustomEvent" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"PersistedCurrentValue" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ReceiverConnected" 1
+		28 65535
+	"ReceiverDisconnected" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"CustomEventReceiver" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Source" 28 0
+	"Tags" 8 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"EventConnected" 1
+		28 65535
+	"EventDisconnected" 1
+		28 65535
+	"SourceValueChanged" 1
+		11 65535
+	"childAdded" 1
+		28 65535
+"CylinderHandleAdornment" 65535
+	14
+	"Adornee" 28 0
+	"AlwaysOnTop" 9 0
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"Color3" 19 0
+	"Height" 11 0
+	"Name" 1 0
+	"Radius" 11 0
+	"RobloxLocked" 9 0
+	"SizeRelativeOffset" 22 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseButton1Down" 0
+	"MouseButton1Up" 0
+	"MouseEnter" 0
+	"MouseLeave" 0
+	"childAdded" 1
+		28 65535
+"CylinderMesh" 65535
+	12
+	"Archivable" 9 0
+	"Bevel" 11 0
+	"Bevel Roundness" 11 0
+	"Bulge" 11 0
+	"LODX" 7 86
+	"LODY" 7 86
+	"Name" 1 0
+	"Offset" 22 0
+	"RobloxLocked" 9 0
+	"Scale" 22 0
+	"Tags" 8 0
+	"VertexColor" 22 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"DataStoreService" 65535
+	5
+	"Archivable" 9 0
+	"LegacyNamingScheme" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Debris" 65535
+	5
+	"Archivable" 9 0
+	"MaxItems" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"DebugSettings" 65535
+	10
+	"Archivable" 9 0
+	"ErrorReporting" 7 51
+	"IsFmodProfilingEnabled" 9 0
+	"IsScriptStackTracingEnabled" 9 0
+	"LuaRamLimit" 10 0
+	"Name" 1 0
+	"ReportSoundWarnings" 9 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TickCountPreciseOverride" 7 158
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"DebuggerBreakpoint" 65535
+	7
+	"Archivable" 9 0
+	"Condition" 2 0
+	"IsEnabled" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"line" 10 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"DebuggerWatch" 65535
+	5
+	"Archivable" 9 0
+	"Expression" 2 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Decal" 65535
+	8
+	"Archivable" 9 0
+	"Color3" 19 0
+	"Face" 7 100
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Texture" 33 0
+	"Transparency" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Dialog" 65535
+	14
+	"Archivable" 9 0
+	"BehaviorType" 7 44
+	"ConversationDistance" 11 0
+	"GoodbyeChoiceActive" 9 0
+	"GoodbyeDialog" 2 0
+	"InUse" 9 0
+	"InitialPrompt" 2 0
+	"Name" 1 0
+	"Purpose" 7 45
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Tone" 7 46
+	"TriggerDistance" 11 0
+	"TriggerOffset" 22 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DialogChoiceSelected" 2
+		28 65535
+		28 65535
+	"childAdded" 1
+		28 65535
+"DialogChoice" 65535
+	8
+	"Archivable" 9 0
+	"GoodbyeChoiceActive" 9 0
+	"GoodbyeDialog" 2 0
+	"Name" 1 0
+	"ResponseDialog" 2 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"UserDialog" 2 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"DistortionSoundEffect" 65535
+	7
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"Level" 11 0
+	"Name" 1 0
+	"Priority" 10 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"DoubleConstrainedValue" 65535
+	7
+	"Archivable" 9 0
+	"MaxValue" 12 0
+	"MinValue" 12 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"value" 12 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		12 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		12 65535
+	"childAdded" 1
+		28 65535
+"Dragger" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"EchoSoundEffect" 65535
+	10
+	"Archivable" 9 0
+	"Delay" 11 0
+	"DryLevel" 11 0
+	"Enabled" 9 0
+	"Feedback" 11 0
+	"Name" 1 0
+	"Priority" 10 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"WetLevel" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"EqualizerSoundEffect" 65535
+	9
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"HighGain" 11 0
+	"LowGain" 11 0
+	"MidGain" 11 0
+	"Name" 1 0
+	"Priority" 10 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Explosion" 65535
+	10
+	"Archivable" 9 0
+	"BlastPressure" 11 0
+	"BlastRadius" 11 0
+	"DestroyJointRadiusPercent" 11 0
+	"ExplosionType" 7 52
+	"Name" 1 0
+	"Position" 22 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Visible" 9 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Hit" 2
+		28 65535
+		11 65535
+	"childAdded" 1
+		28 65535
+"FileMesh" 65535
+	11
+	"Archivable" 9 0
+	"LODX" 7 86
+	"LODY" 7 86
+	"MeshId" 33 0
+	"Name" 1 0
+	"Offset" 22 0
+	"RobloxLocked" 9 0
+	"Scale" 22 0
+	"Tags" 8 0
+	"TextureId" 33 0
+	"VertexColor" 22 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Fire" 65535
+	9
+	"Archivable" 9 0
+	"Color" 19 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SecondaryColor" 19 0
+	"Tags" 8 0
+	"heat_xml" 11 0
+	"size_xml" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Flag" 65535
+	12
+	"Archivable" 9 0
+	"CanBeDropped" 9 0
+	"Enabled" 9 0
+	"Grip" 27 0
+	"ManualActivationOnly" 9 0
+	"Name" 1 0
+	"RequiresHandle" 9 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TeamColor" 18 0
+	"TextureId" 33 0
+	"ToolTip" 2 0
+	10
+	"Activated" 0
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"Deactivated" 0
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Equipped" 1
+		28 65535
+	"Unequipped" 0
+	"childAdded" 1
+		28 65535
+"FlagStand" 598
+	51
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TeamColor" 18 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"formFactorRaw" 7 57
+	"shape" 7 105
+	"size" 23 0
+	15
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"FlagCaptured" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"FlagStandService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"FlangeSoundEffect" 65535
+	9
+	"Archivable" 9 0
+	"Depth" 11 0
+	"Enabled" 9 0
+	"Mix" 11 0
+	"Name" 1 0
+	"Priority" 10 0
+	"Rate" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"FloorWire" 65535
+	15
+	"Archivable" 9 0
+	"Color3" 19 0
+	"CycleOffset" 11 0
+	"From" 28 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"StudsBetweenTextures" 11 0
+	"Tags" 8 0
+	"Texture" 33 0
+	"TextureSize" 21 0
+	"To" 28 0
+	"Transparency" 11 0
+	"Velocity" 11 0
+	"Visible" 9 0
+	"WireRadius" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"FlyweightService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Folder" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ForceField" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Frame" 65535
+	34
+	"Active" 9 0
+	"AnchorPoint" 21 0
+	"Archivable" 9 0
+	"BackgroundColor3" 19 0
+	"BackgroundTransparency" 11 0
+	"BorderColor3" 19 0
+	"BorderSizePixel" 10 0
+	"ClipsDescendants" 9 0
+	"DragBeginConnectionCount" 10 0
+	"DragStoppedConnectionCount" 10 0
+	"Draggable" 9 0
+	"LayoutOrder" 10 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"MouseMovedConnectionCount" 10 0
+	"MouseWheelBackwardConnectionCount" 10 0
+	"MouseWheelForwardConnectionCount" 10 0
+	"Name" 1 0
+	"NextSelectionDown" 28 0
+	"NextSelectionLeft" 28 0
+	"NextSelectionRight" 28 0
+	"NextSelectionUp" 28 0
+	"Position" 14 0
+	"RobloxLocked" 9 0
+	"Rotation" 11 0
+	"Selectable" 9 0
+	"SelectionImageObject" 28 0
+	"Size" 14 0
+	"SizeConstraint" 7 136
+	"SizeFromContents" 9 0
+	"Style" 7 58
+	"Tags" 8 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	24
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DragBegin" 1
+		14 65535
+	"DragStopped" 2
+		10 65535
+		10 65535
+	"InputBegan" 1
+		28 65535
+	"InputChanged" 1
+		28 65535
+	"InputEnded" 1
+		28 65535
+	"MouseEnter" 2
+		10 65535
+		10 65535
+	"MouseLeave" 2
+		10 65535
+		10 65535
+	"MouseMoved" 2
+		10 65535
+		10 65535
+	"MouseWheelBackward" 2
+		10 65535
+		10 65535
+	"MouseWheelForward" 2
+		10 65535
+		10 65535
+	"SelectionGained" 0
+	"SelectionLost" 0
+	"TouchLongPress" 2
+		30 65535
+		7 167
+	"TouchPan" 4
+		30 65535
+		21 65535
+		21 65535
+		7 167
+	"TouchPinch" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchRotate" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchSwipe" 2
+		7 146
+		10 65535
+	"TouchTap" 1
+		30 65535
+	"childAdded" 1
+		28 65535
+"FriendService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"FriendsEvent" 2
+		31 65535
+		30 65535
+	"RemoteFriendEventSignal" 3
+		10 65535
+		10 65535
+		7 60
+	"RemoteFriendStatusSignal" 3
+		10 65535
+		10 65535
+		7 61
+	"childAdded" 1
+		28 65535
+"FunctionalTest" 65535
+	6
+	"Archivable" 9 0
+	"Description" 2 0
+	"HasMigratedSettingsToTestService" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"GamePassService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"GameSettings" 65535
+	16
+	"AdditionalCoreIncludeDirs" 2 0
+	"Archivable" 9 0
+	"BubbleChatLifetime" 11 0
+	"BubbleChatMaxBubbles" 10 0
+	"ChatHistory" 10 0
+	"ChatScrollLength" 10 0
+	"HardwareMouse" 9 0
+	"Name" 1 0
+	"OverrideStarterScript" 2 0
+	"ReportAbuseChatHistory" 10 0
+	"RobloxLocked" 9 0
+	"SoftwareSound" 9 0
+	"SoundEnabled" 9 0
+	"Tags" 8 0
+	"VideoCaptureEnabled" 9 0
+	"VideoQuality" 7 172
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"VideoRecordingChangeRequest" 1
+		9 65535
+	"childAdded" 1
+		28 65535
+"GamepadService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Geometry" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Glue" 65535
+	12
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"F0" 22 0
+	"F1" 22 0
+	"F2" 22 0
+	"F3" 22 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"GoogleAnalyticsConfiguration" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"GroupService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"GuiMain" 65535
+	9
+	"Archivable" 9 0
+	"DisplayOrder" 10 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"ReplicatingAbsolutePosition" 24 0
+	"ReplicatingAbsoluteSize" 24 0
+	"ResetOnSpawn" 9 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"GuiService" 65535
+	8
+	"Archivable" 9 0
+	"AutoSelectGuiEnabled" 9 0
+	"CoreGuiNavigationEnabled" 9 0
+	"GuiNavigationEnabled" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SelectedObject" 28 0
+	"Tags" 8 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"BrowserWindowClosed" 0
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ErrorMessageChanged" 1
+		1 65535
+	"KeyPressed" 2
+		1 65535
+		1 65535
+	"MenuClosed" 0
+	"MenuOpened" 0
+	"ShowLeaveConfirmation" 0
+	"SpecialKeyPressed" 2
+		7 140
+		1 65535
+	"UiMessageChanged" 2
+		7 164
+		1 65535
+	"childAdded" 1
+		28 65535
+"GuidRegistryService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Handles" 65535
+	15
+	"Adornee" 28 0
+	"Archivable" 9 0
+	"Color3" 19 0
+	"Faces" 16 0
+	"MouseButton1DownConnectionCount" 10 0
+	"MouseButton1UpConnectionCount" 10 0
+	"MouseDragConnectionCount" 10 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Style" 7 68
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	11
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseButton1Down" 1
+		7 100
+	"MouseButton1Up" 1
+		7 100
+	"MouseDrag" 2
+		7 100
+		11 65535
+	"MouseEnter" 1
+		7 100
+	"MouseLeave" 1
+		7 100
+	"childAdded" 1
+		28 65535
+"HapticService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Hat" 65535
+	6
+	"Archivable" 9 0
+	"AttachmentPoint" 27 0
+	"BackendAccoutrementState" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ServerEquipAccoutrement" 1
+		28 65535
+	"ServerUnequipAccoutrement" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"HingeConstraint" 65535
+	21
+	"ActuatorType" 7 4
+	"AngularSpeed" 11 0
+	"AngularVelocity" 11 0
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"LimitsEnabled" 9 0
+	"LowerAngle" 11 0
+	"MotorMaxAcceleration" 11 0
+	"MotorMaxTorque" 11 0
+	"Name" 1 0
+	"Radius" 11 0
+	"Restitution" 11 0
+	"RobloxLocked" 9 0
+	"ServoMaxTorque" 11 0
+	"Tags" 8 0
+	"TargetAngle" 11 0
+	"UpperAngle" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Hint" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Text" 2 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Hole" 65535
+	8
+	"Archivable" 9 0
+	"FaceId" 7 100
+	"InOut" 7 77
+	"LeftRight" 7 85
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TopBottom" 7 159
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Hopper" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"HopperBin" 65535
+	7
+	"Active" 9 0
+	"Archivable" 9 0
+	"BinType" 7 10
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TextureId" 33 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Deselected" 0
+	"ReplicatedSelected" 0
+	"Selected" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"HttpRbxApiService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"HttpService" 65535
+	5
+	"Archivable" 9 0
+	"HttpEnabled" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Humanoid" 65535
+	33
+	"Archivable" 9 0
+	"AutoJumpEnabled" 9 0
+	"AutoRotate" 9 0
+	"CameraMaxDistance" 11 0
+	"CameraMinDistance" 11 0
+	"CameraMode" 7 14
+	"CameraOffset" 22 0
+	"DisplayDistanceType" 7 73
+	"HealthDisplayDistance" 11 0
+	"HealthDisplayType" 7 74
+	"Health_XML" 11 0
+	"HipHeight" 11 0
+	"InternalOriginalHipHeight" 11 0
+	"JumpPower" 11 0
+	"JumpReplicate" 9 0
+	"MaxHealth" 11 0
+	"MaxSlopeAngle" 11 0
+	"MoveDirectionInternal" 22 0
+	"Name" 1 0
+	"NameDisplayDistance" 11 0
+	"NameOcclusion" 7 96
+	"PlatformStand" 9 0
+	"RigType" 7 75
+	"RobloxLocked" 9 0
+	"Sit" 9 0
+	"Strafe" 9 0
+	"Tags" 8 0
+	"TargetPoint" 22 0
+	"WalkAngleError" 11 0
+	"WalkDirection" 22 0
+	"WalkSpeed" 11 0
+	"WalkToPart" 28 0
+	"WalkToPoint" 22 0
+	30
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"AnimationPlayed" 1
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"Climbing" 1
+		11 65535
+	"CustomStatusAdded" 1
+		1 65535
+	"CustomStatusRemoved" 1
+		1 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Died" 0
+	"FallingDown" 1
+		9 65535
+	"FreeFalling" 1
+		9 65535
+	"GettingUp" 1
+		9 65535
+	"HealthChanged" 1
+		11 65535
+	"Jumping" 1
+		9 65535
+	"MoveToFinished" 1
+		9 65535
+	"PlatformStanding" 1
+		9 65535
+	"Ragdoll" 1
+		9 65535
+	"Running" 1
+		11 65535
+	"Seated" 2
+		9 65535
+		28 65535
+	"ServerEquipTool" 1
+		28 65535
+	"SetNetworkedHumanoidState" 1
+		10 65535
+	"StateChanged" 2
+		7 76
+		7 76
+	"StateEnabledChanged" 2
+		7 76
+		9 65535
+	"StatusAdded" 1
+		7 142
+	"StatusRemoved" 1
+		7 142
+	"Strafing" 1
+		9 65535
+	"Swimming" 1
+		11 65535
+	"Touched" 2
+		28 65535
+		28 65535
+	"childAdded" 1
+		28 65535
+"HumanoidController" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ButtonChanged" 1
+		7 12
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ImageButton" 65535
+	51
+	"Active" 9 0
+	"AnchorPoint" 21 0
+	"Archivable" 9 0
+	"AutoButtonColor" 9 0
+	"BackgroundColor3" 19 0
+	"BackgroundTransparency" 11 0
+	"BorderColor3" 19 0
+	"BorderSizePixel" 10 0
+	"ClipsDescendants" 9 0
+	"DragBeginConnectionCount" 10 0
+	"DragStoppedConnectionCount" 10 0
+	"Draggable" 9 0
+	"Image" 33 0
+	"ImageColor3" 19 0
+	"ImageRectOffset" 21 0
+	"ImageRectSize" 21 0
+	"ImageTransparency" 11 0
+	"LayoutOrder" 10 0
+	"Modal" 9 0
+	"MouseButton1ClickConnectionCount" 10 0
+	"MouseButton1DownConnectionCount" 10 0
+	"MouseButton1UpConnectionCount" 10 0
+	"MouseButton2ClickConnectionCount" 10 0
+	"MouseButton2DownConnectionCount" 10 0
+	"MouseButton2UpConnectionCount" 10 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"MouseMovedConnectionCount" 10 0
+	"MouseWheelBackwardConnectionCount" 10 0
+	"MouseWheelForwardConnectionCount" 10 0
+	"Name" 1 0
+	"NextSelectionDown" 28 0
+	"NextSelectionLeft" 28 0
+	"NextSelectionRight" 28 0
+	"NextSelectionUp" 28 0
+	"Position" 14 0
+	"RobloxLocked" 9 0
+	"Rotation" 11 0
+	"ScaleType" 7 132
+	"Selectable" 9 0
+	"Selected" 9 0
+	"SelectionImageObject" 28 0
+	"Size" 14 0
+	"SizeConstraint" 7 136
+	"SizeFromContents" 9 0
+	"SliceCenter" 40 0
+	"Style" 7 13
+	"Tags" 8 0
+	"TileSize" 14 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	31
+	"Activated" 1
+		28 65535
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DragBegin" 1
+		14 65535
+	"DragStopped" 2
+		10 65535
+		10 65535
+	"InputBegan" 1
+		28 65535
+	"InputChanged" 1
+		28 65535
+	"InputEnded" 1
+		28 65535
+	"MouseButton1Click" 0
+	"MouseButton1Down" 2
+		10 65535
+		10 65535
+	"MouseButton1Up" 2
+		10 65535
+		10 65535
+	"MouseButton2Click" 0
+	"MouseButton2Down" 2
+		10 65535
+		10 65535
+	"MouseButton2Up" 2
+		10 65535
+		10 65535
+	"MouseEnter" 2
+		10 65535
+		10 65535
+	"MouseLeave" 2
+		10 65535
+		10 65535
+	"MouseMoved" 2
+		10 65535
+		10 65535
+	"MouseWheelBackward" 2
+		10 65535
+		10 65535
+	"MouseWheelForward" 2
+		10 65535
+		10 65535
+	"SelectionGained" 0
+	"SelectionLost" 0
+	"TouchLongPress" 2
+		30 65535
+		7 167
+	"TouchPan" 4
+		30 65535
+		21 65535
+		21 65535
+		7 167
+	"TouchPinch" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchRotate" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchSwipe" 2
+		7 146
+		10 65535
+	"TouchTap" 1
+		30 65535
+	"childAdded" 1
+		28 65535
+"ImageHandleAdornment" 65535
+	14
+	"Adornee" 28 0
+	"AlwaysOnTop" 9 0
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"Color3" 19 0
+	"Image" 33 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Size" 21 0
+	"SizeRelativeOffset" 22 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseButton1Down" 0
+	"MouseButton1Up" 0
+	"MouseEnter" 0
+	"MouseLeave" 0
+	"childAdded" 1
+		28 65535
+"ImageLabel" 65535
+	41
+	"Active" 9 0
+	"AnchorPoint" 21 0
+	"Archivable" 9 0
+	"BackgroundColor3" 19 0
+	"BackgroundTransparency" 11 0
+	"BorderColor3" 19 0
+	"BorderSizePixel" 10 0
+	"ClipsDescendants" 9 0
+	"DragBeginConnectionCount" 10 0
+	"DragStoppedConnectionCount" 10 0
+	"Draggable" 9 0
+	"Image" 33 0
+	"ImageColor3" 19 0
+	"ImageRectOffset" 21 0
+	"ImageRectSize" 21 0
+	"ImageTransparency" 11 0
+	"LayoutOrder" 10 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"MouseMovedConnectionCount" 10 0
+	"MouseWheelBackwardConnectionCount" 10 0
+	"MouseWheelForwardConnectionCount" 10 0
+	"Name" 1 0
+	"NextSelectionDown" 28 0
+	"NextSelectionLeft" 28 0
+	"NextSelectionRight" 28 0
+	"NextSelectionUp" 28 0
+	"Position" 14 0
+	"RobloxLocked" 9 0
+	"Rotation" 11 0
+	"ScaleType" 7 132
+	"Selectable" 9 0
+	"SelectionImageObject" 28 0
+	"Size" 14 0
+	"SizeConstraint" 7 136
+	"SizeFromContents" 9 0
+	"SliceCenter" 40 0
+	"Tags" 8 0
+	"TileSize" 14 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	24
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DragBegin" 1
+		14 65535
+	"DragStopped" 2
+		10 65535
+		10 65535
+	"InputBegan" 1
+		28 65535
+	"InputChanged" 1
+		28 65535
+	"InputEnded" 1
+		28 65535
+	"MouseEnter" 2
+		10 65535
+		10 65535
+	"MouseLeave" 2
+		10 65535
+		10 65535
+	"MouseMoved" 2
+		10 65535
+		10 65535
+	"MouseWheelBackward" 2
+		10 65535
+		10 65535
+	"MouseWheelForward" 2
+		10 65535
+		10 65535
+	"SelectionGained" 0
+	"SelectionLost" 0
+	"TouchLongPress" 2
+		30 65535
+		7 167
+	"TouchPan" 4
+		30 65535
+		21 65535
+		21 65535
+		7 167
+	"TouchPinch" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchRotate" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchSwipe" 2
+		7 146
+		10 65535
+	"TouchTap" 1
+		30 65535
+	"childAdded" 1
+		28 65535
+"InputObject" 65535
+	9
+	"Archivable" 9 0
+	"Delta" 22 0
+	"KeyCode" 7 82
+	"Name" 1 0
+	"Position" 22 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"UserInputState" 7 167
+	"UserInputType" 7 168
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"InsertService" 65535
+	5
+	"AllowClientInsertModels" 9 0
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	11
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"InsertError" 2
+		1 65535
+		1 65535
+	"InsertReady" 2
+		1 65535
+		28 65535
+	"InsertRequestAsset" 3
+		1 65535
+		10 65535
+		10 65535
+	"InsertRequestAssetVersion" 3
+		1 65535
+		10 65535
+		10 65535
+	"InternalDelete" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"InstancePacketCache" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"IntConstrainedValue" 65535
+	7
+	"Archivable" 9 0
+	"MaxValue" 10 0
+	"MinValue" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"value" 10 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		10 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		10 65535
+	"childAdded" 1
+		28 65535
+"IntValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 10 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		10 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		10 65535
+	"childAdded" 1
+		28 65535
+"JointsService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Keyframe" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Time" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"KeyframeSequence" 65535
+	6
+	"Archivable" 9 0
+	"Loop" 9 0
+	"Name" 1 0
+	"Priority" 7 5
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"KeyframeSequenceProvider" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Lighting" 65535
+	16
+	"Ambient" 19 0
+	"Archivable" 9 0
+	"Brightness" 11 0
+	"ColorShift_Bottom" 19 0
+	"ColorShift_Top" 19 0
+	"FogColor" 19 0
+	"FogEnd" 11 0
+	"FogStart" 11 0
+	"GeographicLatitude" 11 0
+	"GlobalShadows" 9 0
+	"Name" 1 0
+	"OutdoorAmbient" 19 0
+	"Outlines" 9 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TimeOfDay" 2 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LightingChanged" 1
+		9 65535
+	"childAdded" 1
+		28 65535
+"LineForce" 65535
+	12
+	"ApplyAtCenterOfMass" 9 0
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"InverseSquareLaw" 9 0
+	"Magnitude" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"LineHandleAdornment" 65535
+	14
+	"Adornee" 28 0
+	"AlwaysOnTop" 9 0
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"Color3" 19 0
+	"Length" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SizeRelativeOffset" 22 0
+	"Tags" 8 0
+	"Thickness" 11 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseButton1Down" 0
+	"MouseButton1Up" 0
+	"MouseEnter" 0
+	"MouseLeave" 0
+	"childAdded" 1
+		28 65535
+"LobbyService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"LocalScript" 65535
+	11
+	"Archivable" 9 0
+	"CachedRemoteSource" 6 0
+	"CachedRemoteSourceLoadState" 10 0
+	"CurrentEditor" 28 0
+	"Disabled" 9 0
+	"LinkedSource" 33 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"ScriptGuid" 2 0
+	"Source" 6 0
+	"Tags" 8 0
+	11
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LockGrantedOrNot" 1
+		9 65535
+	"LostLock" 0
+	"RequestLock" 0
+	"RequestScriptHash" 0
+	"VerifyScriptHash" 1
+		1 65535
+	"childAdded" 1
+		28 65535
+"LocalizationService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"LocalizationTable" 65535
+	7
+	"Archivable" 9 0
+	"Contents" 2 0
+	"DevelopmentLanguage" 2 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Root" 28 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"LogService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	15
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"HttpResultOut" 1
+		31 65535
+	"MessageOut" 2
+		1 65535
+		7 93
+	"OnHttpResultApproved" 1
+		9 65535
+	"RequestHttpResultApprovedSignal" 1
+		28 65535
+	"RequestScriptExecutionSignal" 2
+		28 65535
+		1 65535
+	"RequestServerHttpResultSignal" 1
+		28 65535
+	"RequestServerOutputSignal" 1
+		28 65535
+	"ServerHttpResultOut" 1
+		31 65535
+	"ServerMessageOut" 3
+		1 65535
+		7 93
+		10 65535
+	"childAdded" 1
+		28 65535
+"LoginService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LoginFailed" 1
+		1 65535
+	"LoginSucceeded" 1
+		1 65535
+	"childAdded" 1
+		28 65535
+"LuaSettings" 65535
+	11
+	"Archivable" 9 0
+	"AreScriptStartsReported" 9 0
+	"DefaultWaitTime" 12 0
+	"GcFrequency" 10 0
+	"GcLimit" 10 0
+	"GcPause" 10 0
+	"GcStepMul" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"WaitingThreadsBudget" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"LuaWebService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ManualGlue" 65535
+	10
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Surface0" 10 0
+	"Surface1" 10 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ManualWeld" 65535
+	10
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Surface0" 10 0
+	"Surface1" 10 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"MarketplaceService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	20
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"ClientLuaDialogRequested" 1
+		29 65535
+	"ClientPurchaseSuccess" 3
+		1 65535
+		10 65535
+		10 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LuaDialogCallbackSignal" 2
+		9 65535
+		28 65535
+	"NativePurchaseFinished" 3
+		28 65535
+		1 65535
+		9 65535
+	"PromptGamePassPurchaseFinished" 3
+		28 65535
+		10 65535
+		9 65535
+	"PromptGamePassPurchaseRequested" 2
+		28 65535
+		10 65535
+	"PromptNativePurchaseRequested" 2
+		28 65535
+		1 65535
+	"PromptProductPurchaseFinished" 3
+		10 65535
+		10 65535
+		9 65535
+	"PromptProductPurchaseRequested" 4
+		28 65535
+		10 65535
+		9 65535
+		7 35
+	"PromptPurchaseFinished" 3
+		28 65535
+		10 65535
+		9 65535
+	"PromptPurchaseRequested" 4
+		28 65535
+		10 65535
+		9 65535
+		7 35
+	"PromptThirdPartyPurchaseRequested" 2
+		28 65535
+		1 65535
+	"ServerPurchaseVerification" 1
+		31 65535
+	"ThirdPartyPurchaseFinished" 4
+		28 65535
+		1 65535
+		1 65535
+		9 65535
+	"childAdded" 1
+		28 65535
+"MeshContentProvider" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"MeshPart" 1193
+	53
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"InitialSize" 22 0
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"MeshID" 33 0
+	"MeshId" 33 0
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"PhysicsData" 8 0
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TextureID" 33 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"Message" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Text" 2 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Model" 65535
+	6
+	"Archivable" 9 0
+	"ModelInPrimary" 27 0
+	"Name" 1 0
+	"PrimaryPart" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ModuleScript" 65535
+	10
+	"Archivable" 9 0
+	"CachedRemoteSource" 6 0
+	"CachedRemoteSourceLoadState" 10 0
+	"CurrentEditor" 28 0
+	"LinkedSource" 33 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"ScriptGuid" 2 0
+	"Source" 6 0
+	"Tags" 8 0
+	11
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LockGrantedOrNot" 1
+		9 65535
+	"LostLock" 0
+	"RequestLock" 0
+	"RequestScriptHash" 0
+	"VerifyScriptHash" 1
+		1 65535
+	"childAdded" 1
+		28 65535
+"Motor" 65535
+	10
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"DesiredAngle" 11 0
+	"MaxVelocity" 11 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Motor6D" 65535
+	10
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"DesiredAngle" 11 0
+	"MaxVelocity" 11 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"MotorFeature" 65535
+	8
+	"Archivable" 9 0
+	"FaceId" 7 100
+	"InOut" 7 77
+	"LeftRight" 7 85
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TopBottom" 7 159
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"NavigationService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"NegateOperation" 1300
+	54
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"AssetId" 33 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"FormFactor" 7 57
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"InitialSize" 22 0
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"MeshData" 8 0
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"PhysicsData" 8 0
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"UsePartColor" 9 0
+	"Velocity" 22 0
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"NetworkClient" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Ticket" 2 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"ConnectionAccepted" 2
+		1 65535
+		28 65535
+	"ConnectionFailed" 3
+		1 65535
+		10 65535
+		1 65535
+	"ConnectionRejected" 1
+		1 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"NetworkServer" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DataBasicFiltered" 4
+		28 65535
+		7 54
+		28 65535
+		1 65535
+	"DataCustomFiltered" 4
+		28 65535
+		7 54
+		28 65535
+		1 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"IncommingConnection" 2
+		1 65535
+		28 65535
+	"childAdded" 1
+		28 65535
+"NetworkSettings" 65535
+	39
+	"Archivable" 9 0
+	"ArePhysicsRejectionsReported" 9 0
+	"CanSendPacketBufferLimit" 10 0
+	"ClientPhysicsSendRate" 11 0
+	"DataGCRate" 11 0
+	"DataMtuAdjust" 10 0
+	"DataSendRate" 11 0
+	"ExperimentalPhysicsEnabled" 9 0
+	"IncommingReplicationLag" 12 0
+	"IsQueueErrorComputed" 9 0
+	"IsThrottledByCongestionControl" 9 0
+	"IsThrottledByOutgoingBandwidthLimit" 9 0
+	"Name" 1 0
+	"NetworkOwnerRate" 11 0
+	"PhysicsMtuAdjust" 10 0
+	"PhysicsReceive" 7 108
+	"PhysicsSend" 7 109
+	"PhysicsSendRate" 11 0
+	"PreferredClientPort" 10 0
+	"PrintBits" 9 0
+	"PrintEvents" 9 0
+	"PrintFilters" 9 0
+	"PrintInstances" 9 0
+	"PrintPhysicsErrors" 9 0
+	"PrintProperties" 9 0
+	"PrintSplitMessage" 9 0
+	"PrintStreamInstanceQuota" 9 0
+	"PrintTouches" 9 0
+	"ReceiveRate" 12 0
+	"RenderStreamedRegions" 9 0
+	"RobloxLocked" 9 0
+	"SendPacketBufferLimit" 10 0
+	"ShowActiveAnimationAsset" 9 0
+	"Tags" 8 0
+	"TouchSendRate" 11 0
+	"TrackDataTypes" 9 0
+	"TrackPhysicsDetails" 9 0
+	"UseInstancePacketCache" 9 0
+	"UsePhysicsPacketCache" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"NonReplicatedCSGDictionaryService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"NotificationService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"RobloxConnectionChanged" 3
+		1 65535
+		7 29
+		1 65535
+	"RobloxEventReceived" 1
+		32 65535
+	"childAdded" 1
+		28 65535
+"NumberValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 12 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		12 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		12 65535
+	"childAdded" 1
+		28 65535
+"ObjectValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 28 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"OneQuarterClusterPacketCacheBase" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Pants" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"PantsTemplate" 33 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ParabolaAdornment" 65535
+	13
+	"A" 11 0
+	"Adornee" 28 0
+	"Archivable" 9 0
+	"B" 11 0
+	"C" 11 0
+	"Color3" 19 0
+	"Name" 1 0
+	"Range" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Thickness" 11 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Part" 1441
+	50
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"formFactorRaw" 7 57
+	"shape" 7 105
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"PartOperation" 1492
+	54
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"AssetId" 33 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"FormFactor" 7 57
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"InitialSize" 22 0
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"MeshData" 8 0
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"PhysicsData" 8 0
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"UsePartColor" 9 0
+	"Velocity" 22 0
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"PartOperationAsset" 65535
+	5
+	"Archivable" 9 0
+	"MeshData" 8 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ParticleEmitter" 65535
+	24
+	"Acceleration" 22 0
+	"Archivable" 9 0
+	"Color" 38 0
+	"Drag" 11 0
+	"EmissionDirection" 7 100
+	"Enabled" 9 0
+	"Lifetime" 37 0
+	"LightEmission" 11 0
+	"LightInfluence" 11 0
+	"LockedToPart" 9 0
+	"Name" 1 0
+	"Rate" 11 0
+	"RobloxLocked" 9 0
+	"RotSpeed" 37 0
+	"Rotation" 37 0
+	"Size" 35 0
+	"Speed" 37 0
+	"SpreadAngle" 21 0
+	"Tags" 8 0
+	"Texture" 33 0
+	"Transparency" 35 0
+	"VelocityInheritance" 11 0
+	"VelocitySpread" 11 0
+	"ZOffset" 11 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"OnClearRequested" 0
+	"OnEmitRequested" 1
+		10 65535
+	"childAdded" 1
+		28 65535
+"PathfindingService" 65535
+	5
+	"Archivable" 9 0
+	"EmptyCutoff" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"PersonalServerService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"PhysicsPacketCache" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"PhysicsService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"PhysicsSettings" 65535
+	25
+	"AllowSleep" 9 0
+	"Archivable" 9 0
+	"AreAnchorsShown" 9 0
+	"AreAssembliesShown" 9 0
+	"AreAwakePartsHighlighted" 9 0
+	"AreBodyTypesShown" 9 0
+	"AreContactPointsShown" 9 0
+	"AreJointCoordinatesShown" 9 0
+	"AreMechanismsShown" 9 0
+	"AreModelCoordsShown" 9 0
+	"AreOwnersShown" 9 0
+	"ArePartCoordsShown" 9 0
+	"AreRegionsShown" 9 0
+	"AreUnalignedPartsShown" 9 0
+	"AreWorldCoordsShown" 9 0
+	"IsReceiveAgeShown" 9 0
+	"IsTreeShown" 9 0
+	"Name" 1 0
+	"ParallelPhysics" 9 0
+	"PhysicsEnvironmentalThrottle" 7 50
+	"RobloxLocked" 9 0
+	"ShowDecompositionGeometry" 9 0
+	"Tags" 8 0
+	"ThrottleAdjustTime" 12 0
+	"UseCSGv2" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"PitchShiftSoundEffect" 65535
+	7
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"Octave" 11 0
+	"Priority" 10 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Player" 65535
+	39
+	"AccountAgeReplicate" 10 0
+	"Archivable" 9 0
+	"AutoJumpEnabled" 9 0
+	"CameraMaxZoomDistance" 11 0
+	"CameraMinZoomDistance" 11 0
+	"CameraMode" 7 14
+	"CanLoadCharacterAppearance" 9 0
+	"Character" 28 0
+	"CharacterAppearance" 2 0
+	"CharacterAppearanceId" 10 0
+	"ChatPrivacyMode" 7 23
+	"CloudEditCameraCoordinateFrame" 27 0
+	"CloudEditPlayerActive" 9 0
+	"DevCameraOcclusionMode" 7 38
+	"DevComputerCameraMode" 7 39
+	"DevComputerMovementMode" 7 40
+	"DevEnableMouseLock" 9 0
+	"DevTouchCameraMode" 7 41
+	"DevTouchMovementMode" 7 42
+	"DisplayName" 2 0
+	"FollowUserIdReplicated" 10 0
+	"HealthDisplayDistance" 11 0
+	"LocaleId" 2 0
+	"MaxSimulationRadius" 11 0
+	"MembershipTypeReplicate" 7 91
+	"Name" 1 0
+	"NameDisplayDistance" 11 0
+	"Neutral" 9 0
+	"OsPlatform" 2 0
+	"RespawnLocation" 28 0
+	"RobloxLocked" 9 0
+	"SimulationRadius" 11 0
+	"SuperSafeChatReplicate" 9 0
+	"Tags" 8 0
+	"TeamColor" 18 0
+	"TeleportedIn" 9 0
+	"UserId" 10 0
+	"VRDevice" 2 0
+	"userId" 10 0
+	23
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"CharacterAdded" 1
+		28 65535
+	"CharacterAppearanceLoaded" 1
+		28 65535
+	"CharacterRemoving" 1
+		28 65535
+	"Chatted" 2
+		1 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"CloudEditSelectionChanged" 1
+		30 65535
+	"ConnectDiedSignalBackend" 0
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"FriendStatusChanged" 2
+		28 65535
+		7 61
+	"Idled" 1
+		12 65535
+	"Kill" 0
+	"OnTeleport" 3
+		7 148
+		10 65535
+		1 65535
+	"OnTeleportInternal" 3
+		7 148
+		31 65535
+		28 65535
+	"RemoteFriendRequestSignal" 2
+		10 65535
+		7 60
+	"RemoteInsert" 2
+		1 65535
+		22 65535
+	"ScriptSecurityError" 3
+		1 65535
+		1 65535
+		1 65535
+	"SetShutdownMessage" 1
+		1 65535
+	"SimulationRadiusChanged" 1
+		11 65535
+	"StatsAvailable" 1
+		1 65535
+	"childAdded" 1
+		28 65535
+"PlayerGui" 65535
+	6
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"ScreenOrientation" 7 133
+	"SelectionImageObject" 28 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"TopbarTransparencyChangedSignal" 1
+		11 65535
+	"childAdded" 1
+		28 65535
+"Players" 65535
+	6
+	"Archivable" 9 0
+	"MaxPlayersInternal" 10 0
+	"Name" 1 0
+	"PreferredPlayersInternal" 10 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	22
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"CloudEditPublishFinished" 0
+	"CloudEditServerMessage" 2
+		7 93
+		1 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"FriendRequestEvent" 3
+		28 65535
+		28 65535
+		7 60
+	"GameAnnounce" 1
+		1 65535
+	"OnLinkedScriptsUpdated" 0
+	"PlayerAdded" 1
+		28 65535
+	"PlayerAddedEarly" 1
+		28 65535
+	"PlayerChatted" 4
+		7 113
+		28 65535
+		1 65535
+		28 65535
+	"PlayerConnecting" 1
+		28 65535
+	"PlayerDisconnecting" 1
+		28 65535
+	"PlayerRejoining" 1
+		28 65535
+	"PlayerRemoving" 1
+		28 65535
+	"PlayerRemovingLate" 1
+		28 65535
+	"RequestCloudEditImmediatePublish" 0
+	"RequestCloudEditKick" 1
+		10 65535
+	"RequestCloudEditShutdown" 0
+	"childAdded" 1
+		28 65535
+"PointLight" 65535
+	9
+	"Archivable" 9 0
+	"Brightness" 11 0
+	"Color" 19 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"Range" 11 0
+	"RobloxLocked" 9 0
+	"Shadows" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"PointsService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"PointsAwarded" 4
+		10 65535
+		10 65535
+		10 65535
+		10 65535
+	"childAdded" 1
+		28 65535
+"Pose" 65535
+	9
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"EasingDirection" 7 114
+	"EasingStyle" 7 115
+	"MaskWeight" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Weight" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"PrismaticConstraint" 65535
+	21
+	"ActuatorType" 7 4
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"LimitsEnabled" 9 0
+	"LowerLimit" 11 0
+	"MotorMaxAcceleration" 11 0
+	"MotorMaxForce" 11 0
+	"Name" 1 0
+	"Restitution" 11 0
+	"RobloxLocked" 9 0
+	"ServoMaxForce" 11 0
+	"Size" 11 0
+	"Speed" 11 0
+	"Tags" 8 0
+	"TargetPosition" 11 0
+	"UpperLimit" 11 0
+	"Velocity" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RayValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 15 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		15 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		15 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadata" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataCallbacks" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataClass" 65535
+	17
+	"Archivable" 9 0
+	"Browsable" 9 0
+	"ClassCategory" 2 0
+	"Deprecated" 9 0
+	"EditingDisabled" 9 0
+	"ExplorerImageIndex" 10 0
+	"ExplorerOrder" 10 0
+	"Insertable" 9 0
+	"IsBackend" 9 0
+	"Name" 1 0
+	"PreferredParent" 2 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"UIMaximum" 12 0
+	"UIMinimum" 12 0
+	"UINumTicks" 12 0
+	"summary" 2 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataClasses" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataEnum" 65535
+	13
+	"Archivable" 9 0
+	"Browsable" 9 0
+	"ClassCategory" 2 0
+	"Deprecated" 9 0
+	"EditingDisabled" 9 0
+	"IsBackend" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"UIMaximum" 12 0
+	"UIMinimum" 12 0
+	"UINumTicks" 12 0
+	"summary" 2 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataEnumItem" 65535
+	13
+	"Archivable" 9 0
+	"Browsable" 9 0
+	"ClassCategory" 2 0
+	"Deprecated" 9 0
+	"EditingDisabled" 9 0
+	"IsBackend" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"UIMaximum" 12 0
+	"UIMinimum" 12 0
+	"UINumTicks" 12 0
+	"summary" 2 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataEnums" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataEvents" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataFunctions" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataMember" 65535
+	13
+	"Archivable" 9 0
+	"Browsable" 9 0
+	"ClassCategory" 2 0
+	"Deprecated" 9 0
+	"EditingDisabled" 9 0
+	"IsBackend" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"UIMaximum" 12 0
+	"UIMinimum" 12 0
+	"UINumTicks" 12 0
+	"summary" 2 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataProperties" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReflectionMetadataYieldFunctions" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RemoteEvent" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"OnClientEvent" 1
+		29 65535
+	"OnServerEvent" 2
+		28 65535
+		29 65535
+	"childAdded" 1
+		28 65535
+"RemoteFunction" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"RemoteOnInvokeClient" 2
+		10 65535
+		29 65535
+	"RemoteOnInvokeError" 2
+		10 65535
+		1 65535
+	"RemoteOnInvokeServer" 3
+		10 65535
+		28 65535
+		29 65535
+	"RemoteOnInvokeSuccess" 2
+		10 65535
+		29 65535
+	"childAdded" 1
+		28 65535
+"RenderHooksService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RenderSettings" 65535
+	16
+	"Archivable" 9 0
+	"AutoFRMLevel" 10 0
+	"EagerBulkExecution" 9 0
+	"EditQualityLevel" 7 121
+	"ExportMergeByMaterial" 9 0
+	"FrameRateManager" 7 59
+	"GraphicsMode" 7 67
+	"MeshCacheSize" 10 0
+	"Name" 1 0
+	"QualityLevel" 7 121
+	"ReloadAssets" 9 0
+	"RenderCSGTrianglesDebug" 9 0
+	"Resolution" 7 124
+	"RobloxLocked" 9 0
+	"ShowBoundingBoxes" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReplicatedFirst" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DefaultLoadingGuiRemoved" 0
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"FinishedReplicating" 0
+	"RemoveDefaultLoadingGuiSignal" 0
+	"childAdded" 1
+		28 65535
+"ReplicatedStorage" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ReverbSoundEffect" 65535
+	11
+	"Archivable" 9 0
+	"DecayTime" 11 0
+	"Density" 11 0
+	"Diffusion" 11 0
+	"DryLevel" 11 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"Priority" 10 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"WetLevel" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RobloxReplicatedStorage" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RocketPropulsion" 65535
+	16
+	"Active" 9 0
+	"Archivable" 9 0
+	"CartoonFactor" 11 0
+	"MaxSpeed" 11 0
+	"MaxThrust" 11 0
+	"MaxTorque" 22 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Target" 28 0
+	"TargetOffset" 22 0
+	"TargetRadius" 11 0
+	"ThrustD" 11 0
+	"ThrustP" 11 0
+	"TurnD" 11 0
+	"TurnP" 11 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ReachedTarget" 0
+	"childAdded" 1
+		28 65535
+"RodConstraint" 65535
+	11
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"Length" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Thickness" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RopeConstraint" 65535
+	12
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"Length" 11 0
+	"Name" 1 0
+	"Restitution" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Thickness" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Rotate" 65535
+	8
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RotateP" 65535
+	9
+	"Archivable" 9 0
+	"BaseAngle" 11 0
+	"C0" 27 0
+	"C1" 27 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RotateV" 65535
+	9
+	"Archivable" 9 0
+	"BaseAngle" 11 0
+	"C0" 27 0
+	"C1" 27 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"RunService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Heartbeat" 1
+		12 65535
+	"RenderStepped" 1
+		12 65535
+	"Stepped" 2
+		12 65535
+		12 65535
+	"childAdded" 1
+		28 65535
+"RuntimeScriptService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ScreenGui" 65535
+	9
+	"Archivable" 9 0
+	"DisplayOrder" 10 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"ReplicatingAbsolutePosition" 24 0
+	"ReplicatingAbsoluteSize" 24 0
+	"ResetOnSpawn" 9 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Script" 65535
+	11
+	"Archivable" 9 0
+	"CachedRemoteSource" 6 0
+	"CachedRemoteSourceLoadState" 10 0
+	"CurrentEditor" 28 0
+	"Disabled" 9 0
+	"LinkedSource" 33 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"ScriptGuid" 2 0
+	"Source" 6 0
+	"Tags" 8 0
+	11
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LockGrantedOrNot" 1
+		9 65535
+	"LostLock" 0
+	"RequestLock" 0
+	"RequestScriptHash" 0
+	"VerifyScriptHash" 1
+		1 65535
+	"childAdded" 1
+		28 65535
+"ScriptContext" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"CamelCaseViolation" 3
+		28 65535
+		1 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Error" 3
+		1 65535
+		1 65535
+		28 65535
+	"childAdded" 1
+		28 65535
+"ScriptDebugger" 65535
+	6
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"ScriptGuid" 2 0
+	"ScriptPath" 2 0
+	"Tags" 8 0
+	12
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"BreakpointAdded" 1
+		28 65535
+	"BreakpointRemoved" 1
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"EncounteredBreak" 1
+		10 65535
+	"Resuming" 0
+	"WatchAdded" 1
+		28 65535
+	"WatchRemoved" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ScriptService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ScrollingFrame" 65535
+	43
+	"Active" 9 0
+	"AnchorPoint" 21 0
+	"Archivable" 9 0
+	"BackgroundColor3" 19 0
+	"BackgroundTransparency" 11 0
+	"BorderColor3" 19 0
+	"BorderSizePixel" 10 0
+	"BottomImage" 33 0
+	"CanvasPosition" 21 0
+	"CanvasSize" 14 0
+	"ClipsDescendants" 9 0
+	"DragBeginConnectionCount" 10 0
+	"DragStoppedConnectionCount" 10 0
+	"Draggable" 9 0
+	"HorizontalScrollBarInset" 7 134
+	"LayoutOrder" 10 0
+	"MidImage" 33 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"MouseMovedConnectionCount" 10 0
+	"MouseWheelBackwardConnectionCount" 10 0
+	"MouseWheelForwardConnectionCount" 10 0
+	"Name" 1 0
+	"NextSelectionDown" 28 0
+	"NextSelectionLeft" 28 0
+	"NextSelectionRight" 28 0
+	"NextSelectionUp" 28 0
+	"Position" 14 0
+	"RobloxLocked" 9 0
+	"Rotation" 11 0
+	"ScrollBarThickness" 10 0
+	"ScrollingEnabled" 9 0
+	"Selectable" 9 0
+	"SelectionImageObject" 28 0
+	"Size" 14 0
+	"SizeConstraint" 7 136
+	"SizeFromContents" 9 0
+	"Tags" 8 0
+	"TopImage" 33 0
+	"VerticalScrollBarInset" 7 134
+	"VerticalScrollBarPosition" 7 170
+	"Visible" 9 0
+	"ZIndex" 10 0
+	24
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DragBegin" 1
+		14 65535
+	"DragStopped" 2
+		10 65535
+		10 65535
+	"InputBegan" 1
+		28 65535
+	"InputChanged" 1
+		28 65535
+	"InputEnded" 1
+		28 65535
+	"MouseEnter" 2
+		10 65535
+		10 65535
+	"MouseLeave" 2
+		10 65535
+		10 65535
+	"MouseMoved" 2
+		10 65535
+		10 65535
+	"MouseWheelBackward" 2
+		10 65535
+		10 65535
+	"MouseWheelForward" 2
+		10 65535
+		10 65535
+	"SelectionGained" 0
+	"SelectionLost" 0
+	"TouchLongPress" 2
+		30 65535
+		7 167
+	"TouchPan" 4
+		30 65535
+		21 65535
+		21 65535
+		7 167
+	"TouchPinch" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchRotate" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchSwipe" 2
+		7 146
+		10 65535
+	"TouchTap" 1
+		30 65535
+	"childAdded" 1
+		28 65535
+"Seat" 2011
+	51
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"Disabled" 9 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"formFactorRaw" 7 57
+	"shape" 7 105
+	"size" 23 0
+	16
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"RemoteCreateSeatWeld" 1
+		28 65535
+	"RemoteDestroySeatWeld" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"Selection" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"SelectionChanged" 0
+	"childAdded" 1
+		28 65535
+"SelectionBox" 65535
+	11
+	"Adornee" 28 0
+	"Archivable" 9 0
+	"Color3" 19 0
+	"LineThickness" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SurfaceColor3" 19 0
+	"SurfaceTransparency" 11 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SelectionPartLasso" 65535
+	9
+	"Archivable" 9 0
+	"Color3" 19 0
+	"Humanoid" 28 0
+	"Name" 1 0
+	"Part" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SelectionPointLasso" 65535
+	9
+	"Archivable" 9 0
+	"Color3" 19 0
+	"Humanoid" 28 0
+	"Name" 1 0
+	"Point" 22 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SelectionSphere" 65535
+	10
+	"Adornee" 28 0
+	"Archivable" 9 0
+	"Color3" 19 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SurfaceColor3" 19 0
+	"SurfaceTransparency" 11 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ServerScriptService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ServerStorage" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Shirt" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"ShirtTemplate" 33 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ShirtGraphic" 65535
+	5
+	"Archivable" 9 0
+	"Graphic" 33 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SkateboardController" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"AxisChanged" 1
+		1 65535
+	"ButtonChanged" 1
+		7 12
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SkateboardPlatform" 2127
+	54
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"MoveState" 7 95
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Steer" 10 0
+	"StickyWheels" 9 0
+	"Tags" 8 0
+	"Throttle" 10 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"formFactorRaw" 7 57
+	"shape" 7 105
+	"size" 23 0
+	21
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Equipped" 2
+		28 65535
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"MoveStateChanged" 2
+		7 95
+		7 95
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"RemoteCreateMotor6D" 1
+		28 65535
+	"RemoteDestroyMotor6D" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"Unequipped" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"equipped" 2
+		28 65535
+		28 65535
+	"touched" 1
+		28 65535
+	"unequipped" 1
+		28 65535
+"Skin" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SkinColor" 18 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Sky" 65535
+	16
+	"Archivable" 9 0
+	"CelestialBodiesShown" 9 0
+	"MoonAngularSize" 11 0
+	"MoonTextureId" 33 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SkyboxBk" 33 0
+	"SkyboxDn" 33 0
+	"SkyboxFt" 33 0
+	"SkyboxLf" 33 0
+	"SkyboxRt" 33 0
+	"SkyboxUp" 33 0
+	"StarCount" 10 0
+	"SunAngularSize" 11 0
+	"SunTextureId" 33 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Smoke" 65535
+	9
+	"Archivable" 9 0
+	"Color" 19 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"opacity_xml" 11 0
+	"riseVelocity_xml" 11 0
+	"size_xml" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Snap" 65535
+	8
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SolidModelContentProvider" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Sound" 65535
+	17
+	"Archivable" 9 0
+	"EmitterSize" 11 0
+	"Looped" 9 0
+	"MaxDistance" 11 0
+	"MinDistance" 11 0
+	"Name" 1 0
+	"Pitch" 11 0
+	"PlayOnRemove" 9 0
+	"PlaybackSpeed" 11 0
+	"Playing" 9 0
+	"RobloxLocked" 9 0
+	"RollOffMode" 7 127
+	"SoundGroup" 28 0
+	"SoundId" 33 0
+	"Tags" 8 0
+	"TimePosition" 12 0
+	"Volume" 11 0
+	18
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DidLoop" 2
+		1 65535
+		10 65535
+	"Ended" 1
+		1 65535
+	"Loaded" 1
+		1 65535
+	"Paused" 1
+		1 65535
+	"Played" 1
+		1 65535
+	"PlayingUpdatedFromClient" 1
+		9 65535
+	"PlayingUpdatedFromServer" 1
+		9 65535
+	"Resumed" 1
+		1 65535
+	"Stopped" 1
+		1 65535
+	"TimePositionUpdatedFromClient" 2
+		12 65535
+		12 65535
+	"TimePositionUpdatedFromServer" 2
+		12 65535
+		12 65535
+	"childAdded" 1
+		28 65535
+	"playbackActionSync" 1
+		10 65535
+"SoundGroup" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Volume" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SoundService" 65535
+	9
+	"AmbientReverb" 7 125
+	"Archivable" 9 0
+	"DistanceFactor" 11 0
+	"DopplerScale" 11 0
+	"Name" 1 0
+	"RespectFilteringEnabled" 9 0
+	"RobloxLocked" 9 0
+	"RolloffScale" 11 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Sparkles" 65535
+	6
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SparkleColor" 19 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SpawnLocation" 2261
+	55
+	"AllowTeamChangeOnTouch" 9 0
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Duration" 10 0
+	"Elasticity" 11 0
+	"Enabled" 9 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Neutral" 9 0
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TeamColor" 18 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"formFactorRaw" 7 57
+	"shape" 7 105
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"SpawnerService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SpecialMesh" 65535
+	12
+	"Archivable" 9 0
+	"LODX" 7 86
+	"LODY" 7 86
+	"MeshId" 33 0
+	"MeshType" 7 92
+	"Name" 1 0
+	"Offset" 22 0
+	"RobloxLocked" 9 0
+	"Scale" 22 0
+	"Tags" 8 0
+	"TextureId" 33 0
+	"VertexColor" 22 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SphereHandleAdornment" 65535
+	13
+	"Adornee" 28 0
+	"AlwaysOnTop" 9 0
+	"Archivable" 9 0
+	"CFrame" 27 0
+	"Color3" 19 0
+	"Name" 1 0
+	"Radius" 11 0
+	"RobloxLocked" 9 0
+	"SizeRelativeOffset" 22 0
+	"Tags" 8 0
+	"Transparency" 11 0
+	"Visible" 9 0
+	"ZIndex" 10 0
+	10
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"MouseButton1Down" 0
+	"MouseButton1Up" 0
+	"MouseEnter" 0
+	"MouseLeave" 0
+	"childAdded" 1
+		28 65535
+"SpotLight" 65535
+	11
+	"Angle" 11 0
+	"Archivable" 9 0
+	"Brightness" 11 0
+	"Color" 19 0
+	"Enabled" 9 0
+	"Face" 7 100
+	"Name" 1 0
+	"Range" 11 0
+	"RobloxLocked" 9 0
+	"Shadows" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SpringConstraint" 65535
+	19
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Coils" 11 0
+	"Color" 18 0
+	"Damping" 11 0
+	"Enabled" 9 0
+	"FreeLength" 11 0
+	"LimitsEnabled" 9 0
+	"MaxForce" 11 0
+	"MaxLength" 11 0
+	"MinLength" 11 0
+	"Name" 1 0
+	"Radius" 11 0
+	"RobloxLocked" 9 0
+	"Stiffness" 11 0
+	"Tags" 8 0
+	"Thickness" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"StarterCharacterScripts" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"ConfirmDefaultScripts" 1
+		10 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"RequestDefaultScripts" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"StarterGear" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"StarterGui" 65535
+	7
+	"Archivable" 9 0
+	"Name" 1 0
+	"ResetPlayerGuiOnSpawn" 9 0
+	"RobloxLocked" 9 0
+	"ScreenOrientation" 7 133
+	"ShowDevelopmentGui" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"CoreGuiChangedSignal" 2
+		7 33
+		9 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"StarterPack" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"StarterPlayer" 65535
+	18
+	"AllowCustomAnimations" 9 0
+	"Archivable" 9 0
+	"AutoJumpEnabled" 9 0
+	"CameraMaxZoomDistance" 11 0
+	"CameraMinZoomDistance" 11 0
+	"CameraMode" 7 14
+	"DevCameraOcclusionMode" 7 38
+	"DevComputerCameraMovementMode" 7 39
+	"DevComputerMovementMode" 7 40
+	"DevTouchCameraMovementMode" 7 41
+	"DevTouchMovementMode" 7 42
+	"EnableMouseLockOption" 9 0
+	"HealthDisplayDistance" 11 0
+	"LoadCharacterAppearance" 9 0
+	"Name" 1 0
+	"NameDisplayDistance" 11 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"StarterPlayerScripts" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"ConfirmDefaultScripts" 1
+		10 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"RequestDefaultScripts" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Stats" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Status" 65535
+	6
+	"Archivable" 9 0
+	"ModelInPrimary" 27 0
+	"Name" 1 0
+	"PrimaryPart" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"StringValue" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 2 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		1 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		1 65535
+	"childAdded" 1
+		28 65535
+"Studio" 65535
+	63
+	"Always Save Script Changes" 9 0
+	"Animate Hover Over" 9 0
+	"Archivable" 9 0
+	"Auto Indent" 9 0
+	"Auto-Save Enabled" 9 0
+	"Auto-Save Interval (Minutes)" 10 0
+	"Auto-Save Path" 0 0
+	"Background Color" 19 0
+	"Basic Objects Display Mode" 7 88
+	"Built-in Function Color" 19 0
+	"Camera Mouse Wheel Speed" 11 0
+	"Camera Shift Speed" 11 0
+	"Camera Speed" 11 0
+	"Clear Output On Start" 9 0
+	"Comment Color" 19 0
+	"DefaultScriptFileDir" 0 0
+	"DeprecatedObjectsShown" 9 0
+	"Device Pairing Code" 10 0
+	"Drag Multiple Parts As Single Part" 9 0
+	"Enable Autocomplete" 9 0
+	"Error Color" 19 0
+	"Find Selection Background Color" 19 0
+	"Font" 0 0
+	"Hover Animate Speed" 7 70
+	"Hover Over Color" 19 0
+	"Keyword Color" 19 0
+	"Line Thickness" 11 0
+	"LuaDebuggerEnabled" 9 0
+	"Matching Word Background Color" 19 0
+	"Maximum Output Lines" 10 0
+	"Name" 1 0
+	"Number Color" 19 0
+	"Only Play Audio from Window in Focus" 9 0
+	"Operator Color" 19 0
+	"Output Font" 0 0
+	"Output Layout Mode" 7 101
+	"OverrideCoreScripts" 9 0
+	"OverrideCoreScriptsDir" 0 0
+	"PermissionLevelShown" 7 107
+	"PluginsDir" 0 0
+	"Preprocessor Color" 19 0
+	"RecentSavesDir" 0 0
+	"Render Throttle Percentage" 10 0
+	"RobloxLocked" 9 0
+	"RuntimeUndoBehavior" 7 129
+	"ScriptTimeoutLength" 10 0
+	"Select Color" 19 0
+	"Select/Hover Color" 19 0
+	"Selection Background Color" 19 0
+	"Selection Color" 19 0
+	"Server Audio Behavior" 7 135
+	"Show Core GUI in Explorer while Playing" 9 0
+	"Show Diagnostics Bar" 9 0
+	"Show Hover Over" 9 0
+	"Show Navigation Mesh" 9 0
+	"Show QT warnings in output" 9 0
+	"String Color" 19 0
+	"Tab Width" 10 0
+	"Tags" 8 0
+	"Text Color" 19 0
+	"Text Wrapping" 9 0
+	"UI Style" 7 163
+	"Warning Color" 19 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SunRaysEffect" 65535
+	7
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"Intensity" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Spread" 11 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SurfaceGui" 65535
+	13
+	"Active" 9 0
+	"Adornee" 28 0
+	"AlwaysOnTop" 9 0
+	"Archivable" 9 0
+	"CanvasSize" 21 0
+	"Enabled" 9 0
+	"Face" 7 100
+	"LightInfluence" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"ToolPunchThroughDistance" 11 0
+	"ZOffset" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SurfaceLight" 65535
+	11
+	"Angle" 11 0
+	"Archivable" 9 0
+	"Brightness" 11 0
+	"Color" 19 0
+	"Enabled" 9 0
+	"Face" 7 100
+	"Name" 1 0
+	"Range" 11 0
+	"RobloxLocked" 9 0
+	"Shadows" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"SurfaceSelection" 65535
+	9
+	"Adornee" 28 0
+	"Archivable" 9 0
+	"Color3" 19 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TargetSurface" 7 100
+	"Transparency" 11 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TaskScheduler" 65535
+	10
+	"Archivable" 9 0
+	"AreArbitersThrottled" 9 0
+	"Concurrency" 7 28
+	"Name" 1 0
+	"PriorityMethod" 7 116
+	"RobloxLocked" 9 0
+	"SleepAdjustMethod" 7 137
+	"Tags" 8 0
+	"ThreadPoolConfig" 7 154
+	"ThrottledJobSleepTime" 12 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Team" 65535
+	6
+	"Archivable" 9 0
+	"AutoAssignable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TeamColor" 18 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"PlayerAdded" 1
+		28 65535
+	"PlayerRemoved" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Teams" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TeleportService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"ClientTeleportError" 2
+		28 65535
+		1 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Terrain" 2557
+	53
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"WaterColor" 19 0
+	"WaterReflectance" 11 0
+	"WaterTransparency" 11 0
+	"WaterWaveSize" 11 0
+	"WaterWaveSpeed" 11 0
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"TerrainRegion" 65535
+	6
+	"Archivable" 9 0
+	"ExtentsMax" 25 0
+	"ExtentsMin" 25 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TestService" 65535
+	12
+	"Archivable" 9 0
+	"AutoRuns" 9 0
+	"Description" 2 0
+	"Is30FpsThrottleEnabled" 9 0
+	"IsPhysicsEnvironmentalThrottled" 9 0
+	"IsSleepAllowed" 9 0
+	"Name" 1 0
+	"NumberOfPlayers" 10 0
+	"RobloxLocked" 9 0
+	"SimulateSecondsLag" 12 0
+	"Tags" 8 0
+	"Timeout" 12 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"ServerCollectConditionalResult" 4
+		9 65535
+		1 65535
+		28 65535
+		10 65535
+	"ServerCollectResult" 3
+		1 65535
+		28 65535
+		10 65535
+	"childAdded" 1
+		28 65535
+"TextBox" 65535
+	47
+	"Active" 9 0
+	"AnchorPoint" 21 0
+	"Archivable" 9 0
+	"BackgroundColor3" 19 0
+	"BackgroundTransparency" 11 0
+	"BorderColor3" 19 0
+	"BorderSizePixel" 10 0
+	"ClearTextOnFocus" 9 0
+	"ClipsDescendants" 9 0
+	"DragBeginConnectionCount" 10 0
+	"DragStoppedConnectionCount" 10 0
+	"Draggable" 9 0
+	"Font" 7 55
+	"LayoutOrder" 10 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"MouseMovedConnectionCount" 10 0
+	"MouseWheelBackwardConnectionCount" 10 0
+	"MouseWheelForwardConnectionCount" 10 0
+	"MultiLine" 9 0
+	"Name" 1 0
+	"NextSelectionDown" 28 0
+	"NextSelectionLeft" 28 0
+	"NextSelectionRight" 28 0
+	"NextSelectionUp" 28 0
+	"Position" 14 0
+	"RobloxLocked" 9 0
+	"Rotation" 11 0
+	"Selectable" 9 0
+	"SelectionImageObject" 28 0
+	"ShowNativeInput" 9 0
+	"Size" 14 0
+	"SizeConstraint" 7 136
+	"SizeFromContents" 9 0
+	"Tags" 8 0
+	"Text" 2 0
+	"TextColor3" 19 0
+	"TextScaled" 9 0
+	"TextSize" 11 0
+	"TextStrokeColor3" 19 0
+	"TextStrokeTransparency" 11 0
+	"TextTransparency" 11 0
+	"TextWrapped" 9 0
+	"TextXAlignment" 7 150
+	"TextYAlignment" 7 151
+	"Visible" 9 0
+	"ZIndex" 10 0
+	26
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DragBegin" 1
+		14 65535
+	"DragStopped" 2
+		10 65535
+		10 65535
+	"FocusLost" 2
+		9 65535
+		28 65535
+	"Focused" 0
+	"InputBegan" 1
+		28 65535
+	"InputChanged" 1
+		28 65535
+	"InputEnded" 1
+		28 65535
+	"MouseEnter" 2
+		10 65535
+		10 65535
+	"MouseLeave" 2
+		10 65535
+		10 65535
+	"MouseMoved" 2
+		10 65535
+		10 65535
+	"MouseWheelBackward" 2
+		10 65535
+		10 65535
+	"MouseWheelForward" 2
+		10 65535
+		10 65535
+	"SelectionGained" 0
+	"SelectionLost" 0
+	"TouchLongPress" 2
+		30 65535
+		7 167
+	"TouchPan" 4
+		30 65535
+		21 65535
+		21 65535
+		7 167
+	"TouchPinch" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchRotate" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchSwipe" 2
+		7 146
+		10 65535
+	"TouchTap" 1
+		30 65535
+	"childAdded" 1
+		28 65535
+"TextButton" 65535
+	54
+	"Active" 9 0
+	"AnchorPoint" 21 0
+	"Archivable" 9 0
+	"AutoButtonColor" 9 0
+	"BackgroundColor3" 19 0
+	"BackgroundTransparency" 11 0
+	"BorderColor3" 19 0
+	"BorderSizePixel" 10 0
+	"ClipsDescendants" 9 0
+	"DragBeginConnectionCount" 10 0
+	"DragStoppedConnectionCount" 10 0
+	"Draggable" 9 0
+	"Font" 7 55
+	"LayoutOrder" 10 0
+	"Modal" 9 0
+	"MouseButton1ClickConnectionCount" 10 0
+	"MouseButton1DownConnectionCount" 10 0
+	"MouseButton1UpConnectionCount" 10 0
+	"MouseButton2ClickConnectionCount" 10 0
+	"MouseButton2DownConnectionCount" 10 0
+	"MouseButton2UpConnectionCount" 10 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"MouseMovedConnectionCount" 10 0
+	"MouseWheelBackwardConnectionCount" 10 0
+	"MouseWheelForwardConnectionCount" 10 0
+	"Name" 1 0
+	"NextSelectionDown" 28 0
+	"NextSelectionLeft" 28 0
+	"NextSelectionRight" 28 0
+	"NextSelectionUp" 28 0
+	"Position" 14 0
+	"RobloxLocked" 9 0
+	"Rotation" 11 0
+	"Selectable" 9 0
+	"Selected" 9 0
+	"SelectionImageObject" 28 0
+	"Size" 14 0
+	"SizeConstraint" 7 136
+	"SizeFromContents" 9 0
+	"Style" 7 13
+	"Tags" 8 0
+	"Text" 2 0
+	"TextColor3" 19 0
+	"TextScaled" 9 0
+	"TextSize" 11 0
+	"TextStrokeColor3" 19 0
+	"TextStrokeTransparency" 11 0
+	"TextTransparency" 11 0
+	"TextWrapped" 9 0
+	"TextXAlignment" 7 150
+	"TextYAlignment" 7 151
+	"Visible" 9 0
+	"ZIndex" 10 0
+	31
+	"Activated" 1
+		28 65535
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DragBegin" 1
+		14 65535
+	"DragStopped" 2
+		10 65535
+		10 65535
+	"InputBegan" 1
+		28 65535
+	"InputChanged" 1
+		28 65535
+	"InputEnded" 1
+		28 65535
+	"MouseButton1Click" 0
+	"MouseButton1Down" 2
+		10 65535
+		10 65535
+	"MouseButton1Up" 2
+		10 65535
+		10 65535
+	"MouseButton2Click" 0
+	"MouseButton2Down" 2
+		10 65535
+		10 65535
+	"MouseButton2Up" 2
+		10 65535
+		10 65535
+	"MouseEnter" 2
+		10 65535
+		10 65535
+	"MouseLeave" 2
+		10 65535
+		10 65535
+	"MouseMoved" 2
+		10 65535
+		10 65535
+	"MouseWheelBackward" 2
+		10 65535
+		10 65535
+	"MouseWheelForward" 2
+		10 65535
+		10 65535
+	"SelectionGained" 0
+	"SelectionLost" 0
+	"TouchLongPress" 2
+		30 65535
+		7 167
+	"TouchPan" 4
+		30 65535
+		21 65535
+		21 65535
+		7 167
+	"TouchPinch" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchRotate" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchSwipe" 2
+		7 146
+		10 65535
+	"TouchTap" 1
+		30 65535
+	"childAdded" 1
+		28 65535
+"TextLabel" 65535
+	44
+	"Active" 9 0
+	"AnchorPoint" 21 0
+	"Archivable" 9 0
+	"BackgroundColor3" 19 0
+	"BackgroundTransparency" 11 0
+	"BorderColor3" 19 0
+	"BorderSizePixel" 10 0
+	"ClipsDescendants" 9 0
+	"DragBeginConnectionCount" 10 0
+	"DragStoppedConnectionCount" 10 0
+	"Draggable" 9 0
+	"Font" 7 55
+	"LayoutOrder" 10 0
+	"MouseEnterConnectionCount" 10 0
+	"MouseLeaveConnectionCount" 10 0
+	"MouseMovedConnectionCount" 10 0
+	"MouseWheelBackwardConnectionCount" 10 0
+	"MouseWheelForwardConnectionCount" 10 0
+	"Name" 1 0
+	"NextSelectionDown" 28 0
+	"NextSelectionLeft" 28 0
+	"NextSelectionRight" 28 0
+	"NextSelectionUp" 28 0
+	"Position" 14 0
+	"RobloxLocked" 9 0
+	"Rotation" 11 0
+	"Selectable" 9 0
+	"SelectionImageObject" 28 0
+	"Size" 14 0
+	"SizeConstraint" 7 136
+	"SizeFromContents" 9 0
+	"Tags" 8 0
+	"Text" 2 0
+	"TextColor3" 19 0
+	"TextScaled" 9 0
+	"TextSize" 11 0
+	"TextStrokeColor3" 19 0
+	"TextStrokeTransparency" 11 0
+	"TextTransparency" 11 0
+	"TextWrapped" 9 0
+	"TextXAlignment" 7 150
+	"TextYAlignment" 7 151
+	"Visible" 9 0
+	"ZIndex" 10 0
+	24
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DragBegin" 1
+		14 65535
+	"DragStopped" 2
+		10 65535
+		10 65535
+	"InputBegan" 1
+		28 65535
+	"InputChanged" 1
+		28 65535
+	"InputEnded" 1
+		28 65535
+	"MouseEnter" 2
+		10 65535
+		10 65535
+	"MouseLeave" 2
+		10 65535
+		10 65535
+	"MouseMoved" 2
+		10 65535
+		10 65535
+	"MouseWheelBackward" 2
+		10 65535
+		10 65535
+	"MouseWheelForward" 2
+		10 65535
+		10 65535
+	"SelectionGained" 0
+	"SelectionLost" 0
+	"TouchLongPress" 2
+		30 65535
+		7 167
+	"TouchPan" 4
+		30 65535
+		21 65535
+		21 65535
+		7 167
+	"TouchPinch" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchRotate" 4
+		30 65535
+		11 65535
+		11 65535
+		7 167
+	"TouchSwipe" 2
+		7 146
+		10 65535
+	"TouchTap" 1
+		30 65535
+	"childAdded" 1
+		28 65535
+"TextService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Texture" 65535
+	10
+	"Archivable" 9 0
+	"Color3" 19 0
+	"Face" 7 100
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"StudsPerTileU" 11 0
+	"StudsPerTileV" 11 0
+	"Tags" 8 0
+	"Texture" 33 0
+	"Transparency" 11 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TextureContentProvider" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"ThirdPartyUserService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	9
+	"ActiveGamepadAdded" 0
+	"ActiveGamepadRemoved" 0
+	"ActiveUserSignedOut" 1
+		10 65535
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TimerService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Tool" 65535
+	11
+	"Archivable" 9 0
+	"CanBeDropped" 9 0
+	"Enabled" 9 0
+	"Grip" 27 0
+	"ManualActivationOnly" 9 0
+	"Name" 1 0
+	"RequiresHandle" 9 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"TextureId" 33 0
+	"ToolTip" 2 0
+	10
+	"Activated" 0
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"Deactivated" 0
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"Equipped" 1
+		28 65535
+	"Unequipped" 0
+	"childAdded" 1
+		28 65535
+"Torque" 65535
+	11
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"RelativeTo" 7 3
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Torque" 22 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TouchInputService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TouchTransmitter" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Trail" 65535
+	16
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 38 0
+	"Enabled" 9 0
+	"FaceCamera" 9 0
+	"Lifetime" 11 0
+	"LightEmission" 11 0
+	"MinLength" 11 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Texture" 33 0
+	"TextureLength" 11 0
+	"TextureMode" 7 152
+	"Transparency" 35 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TremoloSoundEffect" 65535
+	9
+	"Archivable" 9 0
+	"Depth" 11 0
+	"Duty" 11 0
+	"Enabled" 9 0
+	"Frequency" 11 0
+	"Name" 1 0
+	"Priority" 10 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TrussPart" 2854
+	49
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"size" 23 0
+	"style" 7 143
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"Tween" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"Completed" 1
+		7 111
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"TweenService" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UIAspectRatioConstraint" 65535
+	7
+	"Archivable" 9 0
+	"AspectRatio" 11 0
+	"AspectType" 7 7
+	"DominantAxis" 7 47
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UIGridLayout" 65535
+	12
+	"Archivable" 9 0
+	"CellPadding" 14 0
+	"CellSize" 14 0
+	"FillDirection" 7 53
+	"FillDirectionMaxCells" 10 0
+	"HorizontalAlignment" 7 69
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"SortOrder" 7 138
+	"StartCorner" 7 141
+	"Tags" 8 0
+	"VerticalAlignment" 7 169
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UIListLayout" 65535
+	9
+	"Archivable" 9 0
+	"FillDirection" 7 53
+	"HorizontalAlignment" 7 69
+	"Name" 1 0
+	"Padding" 13 0
+	"RobloxLocked" 9 0
+	"SortOrder" 7 138
+	"Tags" 8 0
+	"VerticalAlignment" 7 169
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UIPadding" 65535
+	8
+	"Archivable" 9 0
+	"Name" 1 0
+	"PaddingBottom" 13 0
+	"PaddingLeft" 13 0
+	"PaddingRight" 13 0
+	"PaddingTop" 13 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UIPageLayout" 65535
+	14
+	"Animated" 9 0
+	"Archivable" 9 0
+	"Circular" 9 0
+	"EasingDirection" 7 48
+	"EasingStyle" 7 49
+	"FillDirection" 7 53
+	"HorizontalAlignment" 7 69
+	"Name" 1 0
+	"Padding" 13 0
+	"RobloxLocked" 9 0
+	"SortOrder" 7 138
+	"Tags" 8 0
+	"TweenTime" 11 0
+	"VerticalAlignment" 7 169
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"PageEnter" 1
+		28 65535
+	"PageLeave" 1
+		28 65535
+	"Stopped" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UIScale" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Scale" 11 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UISizeConstraint" 65535
+	6
+	"Archivable" 9 0
+	"MaxSize" 21 0
+	"MinSize" 21 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UITableLayout" 65535
+	12
+	"Archivable" 9 0
+	"FillDirection" 7 53
+	"FillEmptySpaceColumns" 9 0
+	"FillEmptySpaceRows" 9 0
+	"HorizontalAlignment" 7 69
+	"MajorAxis" 7 147
+	"Name" 1 0
+	"Padding" 14 0
+	"RobloxLocked" 9 0
+	"SortOrder" 7 138
+	"Tags" 8 0
+	"VerticalAlignment" 7 169
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UITextSizeConstraint" 65535
+	6
+	"Archivable" 9 0
+	"MaxTextSize" 10 0
+	"MinTextSize" 10 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"UnionOperation" 2991
+	54
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"AssetId" 33 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"FormFactor" 7 57
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"InitialSize" 22 0
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"MeshData" 8 0
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"PhysicsData" 8 0
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"UsePartColor" 9 0
+	"Velocity" 22 0
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"UserGameSettings" 65535
+	24
+	"AllTutorialsDisabled" 9 0
+	"Archivable" 9 0
+	"CameraMode" 7 36
+	"ChatVisible" 9 0
+	"CompletedTutorials" 2 0
+	"ComputerCameraMovementMode" 7 26
+	"ComputerMovementMode" 7 27
+	"ControlMode" 7 32
+	"Fullscreen" 9 0
+	"GamepadCameraSensitivity" 11 0
+	"MasterVolume" 11 0
+	"MouseSensitivity" 11 0
+	"Name" 1 0
+	"PerformanceStatsVisible" 9 0
+	"RobloxLocked" 9 0
+	"RotationType" 7 128
+	"SavedQualityLevel" 7 131
+	"Tags" 8 0
+	"TouchCameraMovementMode" 7 160
+	"TouchMovementMode" 7 161
+	"UsedCoreGuiIsVisibleToggle" 9 0
+	"UsedCustomGuiIsVisibleToggle" 9 0
+	"UsedHideHudShortcut" 9 0
+	"VRRotationIntensity" 10 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"FullscreenChanged" 1
+		9 65535
+	"PerformanceStatsVisibleChanged" 1
+		9 65535
+	"StudioModeChanged" 1
+		9 65535
+	"childAdded" 1
+		28 65535
+"UserInputService" 65535
+	8
+	"Archivable" 9 0
+	"ModalEnabled" 9 0
+	"MouseBehavior" 7 94
+	"MouseIconEnabled" 9 0
+	"Name" 1 0
+	"OverrideMouseIconBehavior" 7 102
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	31
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"DeviceAccelerationChanged" 1
+		28 65535
+	"DeviceGravityChanged" 1
+		28 65535
+	"DeviceRotationChanged" 2
+		28 65535
+		27 65535
+	"GamepadConnected" 1
+		7 168
+	"GamepadDisconnected" 1
+		7 168
+	"InputBegan" 2
+		28 65535
+		9 65535
+	"InputChanged" 2
+		28 65535
+		9 65535
+	"InputEnded" 2
+		28 65535
+		9 65535
+	"JumpRequest" 0
+	"LastInputTypeChanged" 1
+		7 168
+	"TextBoxFocusReleased" 1
+		28 65535
+	"TextBoxFocused" 1
+		28 65535
+	"TouchEnded" 2
+		28 65535
+		9 65535
+	"TouchLongPress" 3
+		30 65535
+		7 167
+		9 65535
+	"TouchMoved" 2
+		28 65535
+		9 65535
+	"TouchPan" 5
+		30 65535
+		21 65535
+		21 65535
+		7 167
+		9 65535
+	"TouchPinch" 5
+		30 65535
+		11 65535
+		11 65535
+		7 167
+		9 65535
+	"TouchRotate" 5
+		30 65535
+		11 65535
+		11 65535
+		7 167
+		9 65535
+	"TouchStarted" 2
+		28 65535
+		9 65535
+	"TouchSwipe" 3
+		7 146
+		10 65535
+		9 65535
+	"TouchTap" 2
+		30 65535
+		9 65535
+	"TouchTapInWorld" 2
+		21 65535
+		9 65535
+	"UserCFrameChanged" 2
+		7 166
+		27 65535
+	"WindowFocusReleased" 0
+	"WindowFocused" 0
+	"childAdded" 1
+		28 65535
+"VRService" 65535
+	5
+	"Archivable" 9 0
+	"GuiInputUserCFrame" 7 166
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	9
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"NavigationRequested" 2
+		27 65535
+		7 166
+	"UserCFrameChanged" 2
+		7 166
+		27 65535
+	"UserCFrameEnabled" 2
+		7 166
+		9 65535
+	"childAdded" 1
+		28 65535
+"Vector3Value" 65535
+	5
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Value" 22 0
+	8
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"Changed" 1
+		22 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"changed" 1
+		22 65535
+	"childAdded" 1
+		28 65535
+"VectorForce" 65535
+	12
+	"ApplyAtCenterOfMass" 9 0
+	"Archivable" 9 0
+	"Attachment0" 28 0
+	"Attachment1" 28 0
+	"Color" 18 0
+	"Enabled" 9 0
+	"Force" 22 0
+	"Name" 1 0
+	"RelativeTo" 7 3
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	"Visible" 9 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"VehicleController" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ButtonChanged" 1
+		7 12
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"VehicleSeat" 3102
+	57
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"Disabled" 9 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"HeadsUpDisplay" 9 0
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"MaxSpeed" 11 0
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Steer" 10 0
+	"SteerFloat" 11 0
+	"Tags" 8 0
+	"Throttle" 10 0
+	"ThrottleFloat" 11 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Torque" 11 0
+	"Transparency" 11 0
+	"TurnSpeed" 11 0
+	"Velocity" 22 0
+	"size" 23 0
+	16
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"RemoteCreateSeatWeld" 1
+		28 65535
+	"RemoteDestroySeatWeld" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"VelocityMotor" 65535
+	12
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"CurrentAngle" 11 0
+	"DesiredAngle" 11 0
+	"Hole" 28 0
+	"MaxVelocity" 11 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"VirtualUser" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Visit" 65535
+	4
+	"Archivable" 9 0
+	"Name" 1 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"WedgePart" 3179
+	49
+	"Anchored" 9 0
+	"Archivable" 9 0
+	"BackParamA" 11 0
+	"BackParamB" 11 0
+	"BackSurface" 7 145
+	"BackSurfaceInput" 7 79
+	"BottomParamA" 11 0
+	"BottomParamB" 11 0
+	"BottomSurface" 7 145
+	"BottomSurfaceInput" 7 79
+	"BrickColor" 18 0
+	"CFrame" 27 0
+	"CanCollide" 9 0
+	"CollisionGroupId" 10 0
+	"Color3uint8" 20 0
+	"CustomPhysicalProperties" 41 0
+	"DraggingV1" 9 0
+	"Elasticity" 11 0
+	"Friction" 11 0
+	"FrontParamA" 11 0
+	"FrontParamB" 11 0
+	"FrontSurface" 7 145
+	"FrontSurfaceInput" 7 79
+	"LeftParamA" 11 0
+	"LeftParamB" 11 0
+	"LeftSurface" 7 145
+	"LeftSurfaceInput" 7 79
+	"Locked" 9 0
+	"Material" 7 90
+	"Name" 1 0
+	"NetworkIsSleeping" 9 0
+	"NetworkOwnerV3" 34 0
+	"NetworkOwnershipRule" 7 99
+	"Reflectance" 11 0
+	"RightParamA" 11 0
+	"RightParamB" 11 0
+	"RightSurface" 7 145
+	"RightSurfaceInput" 7 79
+	"RobloxLocked" 9 0
+	"RotVelocity" 22 0
+	"Tags" 8 0
+	"TopParamA" 11 0
+	"TopParamB" 11 0
+	"TopSurface" 7 145
+	"TopSurfaceInput" 7 79
+	"Transparency" 11 0
+	"Velocity" 22 0
+	"formFactorRaw" 7 57
+	"size" 23 0
+	14
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"LocalSimulationTouched" 1
+		28 65535
+	"NetworkOwnerChanged" 1
+		34 65535
+	"NetworkOwnerChangedBroadcast" 1
+		34 65535
+	"OutfitChanged" 0
+	"StoppedTouching" 1
+		28 65535
+	"TouchEnded" 1
+		28 65535
+	"Touched" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+	"touched" 1
+		28 65535
+"Weld" 65535
+	8
+	"Archivable" 9 0
+	"C0" 27 0
+	"C1" 27 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"WeldConstraint" 65535
+	7
+	"Archivable" 9 0
+	"Enabled" 9 0
+	"Name" 1 0
+	"Part0" 28 0
+	"Part1" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	6
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"childAdded" 1
+		28 65535
+"Workspace" 65535
+	10
+	"Archivable" 9 0
+	"CollisionGroups" 2 0
+	"ExpSolverEnabled_Replicate" 9 0
+	"FallenPartsDestroyHeight" 11 0
+	"Gravity" 11 0
+	"ModelInPrimary" 27 0
+	"Name" 1 0
+	"PrimaryPart" 28 0
+	"RobloxLocked" 9 0
+	"Tags" 8 0
+	7
+	"AncestryChanged" 2
+		28 65535
+		28 65535
+	"ChildAdded" 1
+		28 65535
+	"ChildRemoved" 1
+		28 65535
+	"DescendantAdded" 1
+		28 65535
+	"DescendantRemoving" 1
+		28 65535
+	"PhysicsAnalyzerIssuesFound" 1
+		10 65535
+	"childAdded" 1
+		28 65535
