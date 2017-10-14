@@ -1,4 +1,4 @@
-175
+176
 "AASamples" 7
 "AccessType" 7
 "ActionType" 7
@@ -96,8 +96,6 @@
 "MouseBehavior" 7
 "MoveState" 7
 "NameOcclusion" 7
-"NavigationStatus" 7
-"NavigationWaypointAction" 7
 "NetworkOwnership" 7
 "NormalId" 7
 "OutputLayoutMode" 7
@@ -106,6 +104,7 @@
 "PacketReliability" 7
 "PartType" 7
 "PathStatus" 7
+"PathWaypointAction" 7
 "PermissionLevelShown" 7
 "PhysicsReceiveMethod" 7
 "PhysicsSendMethod" 7
@@ -168,6 +167,8 @@
 "UserCFrame" 7
 "UserInputState" 7
 "UserInputType" 7
+"VRTouchpad" 7
+"VRTouchpadMode" 7
 "VerticalAlignment" 7
 "VerticalScrollBarPosition" 7
 "VibrationMotor" 7

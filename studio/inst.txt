@@ -1,4 +1,4 @@
-293 3242 2353
+290 3249 2330
 "Accessory" 65535
 	6
 	"Archivable" 9 0
@@ -75,11 +75,11 @@
 		28 65535
 	"SendServerRecordImpression" 3
 		10 65535
-		7 110
+		7 109
 		9 65535
 	"ServerAdVerification" 2
 		10 65535
-		7 110
+		7 109
 	"VideoAdClosed" 1
 		9 65535
 	"childAdded" 1
@@ -396,7 +396,7 @@
 	"childAdded" 1
 		28 65535
 "BallSocketConstraint" 65535
-	13
+	16
 	"Archivable" 9 0
 	"Attachment0" 28 0
 	"Attachment1" 28 0
@@ -408,6 +408,9 @@
 	"Restitution" 11 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
+	"TwistLimitsEnabled" 9 0
+	"TwistLowerAngle" 11 0
+	"TwistUpperAngle" 11 0
 	"UpperAngle" 11 0
 	"Visible" 9 0
 	6
@@ -425,7 +428,7 @@
 	"childAdded" 1
 		28 65535
 "BillboardGui" 65535
-	17
+	18
 	"Active" 9 0
 	"Adornee" 28 0
 	"AlwaysOnTop" 9 0
@@ -434,6 +437,7 @@
 	"ExtentsOffset" 22 0
 	"ExtentsOffsetWorldSpace" 22 0
 	"LightInfluence" 11 0
+	"Localize" 9 0
 	"MaxDistance" 11 0
 	"Name" 1 0
 	"PlayerToHideFrom" 28 0
@@ -1337,17 +1341,17 @@
 		28 65535
 	"childAdded" 1
 		28 65535
-"CornerWedgePart" 373
+"CornerWedgePart" 377
 	48
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -1360,29 +1364,29 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
@@ -1583,7 +1587,7 @@
 	"ReportSoundWarnings" 9 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	"TickCountPreciseOverride" 7 158
+	"TickCountPreciseOverride" 7 157
 	6
 	"AncestryChanged" 2
 		28 65535
@@ -1646,7 +1650,7 @@
 	8
 	"Archivable" 9 0
 	"Color3" 19 0
-	"Face" 7 100
+	"Face" 7 98
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
@@ -1958,17 +1962,17 @@
 	"Unequipped" 0
 	"childAdded" 1
 		28 65535
-"FlagStand" 598
+"FlagStand" 602
 	51
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -1981,22 +1985,22 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
@@ -2004,12 +2008,12 @@
 	"TeamColor" 18 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
 	"formFactorRaw" 7 57
-	"shape" 7 105
+	"shape" 7 103
 	"size" 23 0
 	15
 	"AncestryChanged" 2
@@ -2180,7 +2184,7 @@
 	"childAdded" 1
 		28 65535
 "Frame" 65535
-	34
+	35
 	"Active" 9 0
 	"AnchorPoint" 21 0
 	"Archivable" 9 0
@@ -2193,6 +2197,7 @@
 	"DragStoppedConnectionCount" 10 0
 	"Draggable" 9 0
 	"LayoutOrder" 10 0
+	"Localize" 9 0
 	"MouseEnterConnectionCount" 10 0
 	"MouseLeaveConnectionCount" 10 0
 	"MouseMovedConnectionCount" 10 0
@@ -2209,7 +2214,7 @@
 	"Selectable" 9 0
 	"SelectionImageObject" 28 0
 	"Size" 14 0
-	"SizeConstraint" 7 136
+	"SizeConstraint" 7 135
 	"SizeFromContents" 9 0
 	"Style" 7 58
 	"Tags" 8 0
@@ -2257,24 +2262,24 @@
 	"SelectionLost" 0
 	"TouchLongPress" 2
 		30 65535
-		7 167
+		7 166
 	"TouchPan" 4
 		30 65535
 		21 65535
 		21 65535
-		7 167
+		7 166
 	"TouchPinch" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchRotate" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchSwipe" 2
-		7 146
+		7 145
 		10 65535
 	"TouchTap" 1
 		30 65535
@@ -2298,8 +2303,7 @@
 		28 65535
 	"DescendantRemoving" 1
 		28 65535
-	"FriendsEvent" 2
-		31 65535
+	"FriendsUpdated" 1
 		30 65535
 	"RemoteFriendEventSignal" 3
 		10 65535
@@ -2354,7 +2358,7 @@
 	"childAdded" 1
 		28 65535
 "GameSettings" 65535
-	16
+	15
 	"AdditionalCoreIncludeDirs" 2 0
 	"Archivable" 9 0
 	"BubbleChatLifetime" 11 0
@@ -2367,10 +2371,9 @@
 	"ReportAbuseChatHistory" 10 0
 	"RobloxLocked" 9 0
 	"SoftwareSound" 9 0
-	"SoundEnabled" 9 0
 	"Tags" 8 0
 	"VideoCaptureEnabled" 9 0
-	"VideoQuality" 7 172
+	"VideoQuality" 7 173
 	7
 	"AncestryChanged" 2
 		28 65535
@@ -2496,10 +2499,11 @@
 	"childAdded" 1
 		28 65535
 "GuiMain" 65535
-	9
+	10
 	"Archivable" 9 0
 	"DisplayOrder" 10 0
 	"Enabled" 9 0
+	"Localize" 9 0
 	"Name" 1 0
 	"ReplicatingAbsolutePosition" 24 0
 	"ReplicatingAbsoluteSize" 24 0
@@ -2552,10 +2556,10 @@
 	"MenuOpened" 0
 	"ShowLeaveConfirmation" 0
 	"SpecialKeyPressed" 2
-		7 140
+		7 139
 		1 65535
 	"UiMessageChanged" 2
-		7 164
+		7 163
 		1 65535
 	"childAdded" 1
 		28 65535
@@ -2609,16 +2613,16 @@
 	"DescendantRemoving" 1
 		28 65535
 	"MouseButton1Down" 1
-		7 100
+		7 98
 	"MouseButton1Up" 1
-		7 100
+		7 98
 	"MouseDrag" 2
-		7 100
+		7 98
 		11 65535
 	"MouseEnter" 1
-		7 100
+		7 98
 	"MouseLeave" 1
-		7 100
+		7 98
 	"childAdded" 1
 		28 65535
 "HapticService" 65535
@@ -2728,13 +2732,13 @@
 "Hole" 65535
 	8
 	"Archivable" 9 0
-	"FaceId" 7 100
+	"FaceId" 7 98
 	"InOut" 7 77
 	"LeftRight" 7 85
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	"TopBottom" 7 159
+	"TopBottom" 7 158
 	6
 	"AncestryChanged" 2
 		28 65535
@@ -2838,7 +2842,7 @@
 	"childAdded" 1
 		28 65535
 "Humanoid" 65535
-	33
+	34
 	"Archivable" 9 0
 	"AutoJumpEnabled" 9 0
 	"AutoRotate" 9 0
@@ -2847,6 +2851,7 @@
 	"CameraMode" 7 14
 	"CameraOffset" 22 0
 	"DisplayDistanceType" 7 73
+	"FloorMaterialInternal" 7 90
 	"HealthDisplayDistance" 11 0
 	"HealthDisplayType" 7 74
 	"Health_XML" 11 0
@@ -2925,9 +2930,9 @@
 		7 76
 		9 65535
 	"StatusAdded" 1
-		7 142
+		7 141
 	"StatusRemoved" 1
-		7 142
+		7 141
 	"Strafing" 1
 		9 65535
 	"Swimming" 1
@@ -2960,7 +2965,7 @@
 	"childAdded" 1
 		28 65535
 "ImageButton" 65535
-	51
+	52
 	"Active" 9 0
 	"AnchorPoint" 21 0
 	"Archivable" 9 0
@@ -2979,6 +2984,7 @@
 	"ImageRectSize" 21 0
 	"ImageTransparency" 11 0
 	"LayoutOrder" 10 0
+	"Localize" 9 0
 	"Modal" 9 0
 	"MouseButton1ClickConnectionCount" 10 0
 	"MouseButton1DownConnectionCount" 10 0
@@ -2999,12 +3005,12 @@
 	"Position" 14 0
 	"RobloxLocked" 9 0
 	"Rotation" 11 0
-	"ScaleType" 7 132
+	"ScaleType" 7 131
 	"Selectable" 9 0
 	"Selected" 9 0
 	"SelectionImageObject" 28 0
 	"Size" 14 0
-	"SizeConstraint" 7 136
+	"SizeConstraint" 7 135
 	"SizeFromContents" 9 0
 	"SliceCenter" 40 0
 	"Style" 7 13
@@ -3070,24 +3076,24 @@
 	"SelectionLost" 0
 	"TouchLongPress" 2
 		30 65535
-		7 167
+		7 166
 	"TouchPan" 4
 		30 65535
 		21 65535
 		21 65535
-		7 167
+		7 166
 	"TouchPinch" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchRotate" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchSwipe" 2
-		7 146
+		7 145
 		10 65535
 	"TouchTap" 1
 		30 65535
@@ -3128,7 +3134,7 @@
 	"childAdded" 1
 		28 65535
 "ImageLabel" 65535
-	41
+	42
 	"Active" 9 0
 	"AnchorPoint" 21 0
 	"Archivable" 9 0
@@ -3146,6 +3152,7 @@
 	"ImageRectSize" 21 0
 	"ImageTransparency" 11 0
 	"LayoutOrder" 10 0
+	"Localize" 9 0
 	"MouseEnterConnectionCount" 10 0
 	"MouseLeaveConnectionCount" 10 0
 	"MouseMovedConnectionCount" 10 0
@@ -3159,11 +3166,11 @@
 	"Position" 14 0
 	"RobloxLocked" 9 0
 	"Rotation" 11 0
-	"ScaleType" 7 132
+	"ScaleType" 7 131
 	"Selectable" 9 0
 	"SelectionImageObject" 28 0
 	"Size" 14 0
-	"SizeConstraint" 7 136
+	"SizeConstraint" 7 135
 	"SizeFromContents" 9 0
 	"SliceCenter" 40 0
 	"Tags" 8 0
@@ -3212,24 +3219,24 @@
 	"SelectionLost" 0
 	"TouchLongPress" 2
 		30 65535
-		7 167
+		7 166
 	"TouchPan" 4
 		30 65535
 		21 65535
 		21 65535
-		7 167
+		7 166
 	"TouchPinch" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchRotate" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchSwipe" 2
-		7 146
+		7 145
 		10 65535
 	"TouchTap" 1
 		30 65535
@@ -3244,8 +3251,8 @@
 	"Position" 22 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	"UserInputState" 7 167
-	"UserInputType" 7 168
+	"UserInputState" 7 166
+	"UserInputType" 7 167
 	6
 	"AncestryChanged" 2
 		28 65535
@@ -3901,17 +3908,17 @@
 		28 65535
 	"childAdded" 1
 		28 65535
-"MeshPart" 1193
+"MeshPart" 1201
 	53
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -3924,12 +3931,12 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"InitialSize" 22 0
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
@@ -3938,12 +3945,12 @@
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"PhysicsData" 8 0
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
@@ -3951,7 +3958,7 @@
 	"TextureID" 33 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
@@ -4116,13 +4123,13 @@
 "MotorFeature" 65535
 	8
 	"Archivable" 9 0
-	"FaceId" 7 100
+	"FaceId" 7 98
 	"InOut" 7 77
 	"LeftRight" 7 85
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	"TopBottom" 7 159
+	"TopBottom" 7 158
 	6
 	"AncestryChanged" 2
 		28 65535
@@ -4137,38 +4144,18 @@
 		28 65535
 	"childAdded" 1
 		28 65535
-"NavigationService" 65535
-	4
-	"Archivable" 9 0
-	"Name" 1 0
-	"RobloxLocked" 9 0
-	"Tags" 8 0
-	6
-	"AncestryChanged" 2
-		28 65535
-		28 65535
-	"ChildAdded" 1
-		28 65535
-	"ChildRemoved" 1
-		28 65535
-	"DescendantAdded" 1
-		28 65535
-	"DescendantRemoving" 1
-		28 65535
-	"childAdded" 1
-		28 65535
-"NegateOperation" 1300
+"NegateOperation" 1304
 	54
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"AssetId" 33 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -4182,12 +4169,12 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"InitialSize" 22 0
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
@@ -4195,19 +4182,19 @@
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"PhysicsData" 8 0
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"UsePartColor" 9 0
@@ -4278,7 +4265,7 @@
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	9
+	6
 	"AncestryChanged" 2
 		28 65535
 		28 65535
@@ -4286,22 +4273,9 @@
 		28 65535
 	"ChildRemoved" 1
 		28 65535
-	"DataBasicFiltered" 4
-		28 65535
-		7 54
-		28 65535
-		1 65535
-	"DataCustomFiltered" 4
-		28 65535
-		7 54
-		28 65535
-		1 65535
 	"DescendantAdded" 1
 		28 65535
 	"DescendantRemoving" 1
-		28 65535
-	"IncommingConnection" 2
-		1 65535
 		28 65535
 	"childAdded" 1
 		28 65535
@@ -4322,8 +4296,8 @@
 	"Name" 1 0
 	"NetworkOwnerRate" 11 0
 	"PhysicsMtuAdjust" 10 0
-	"PhysicsReceive" 7 108
-	"PhysicsSend" 7 109
+	"PhysicsReceive" 7 107
+	"PhysicsSend" 7 108
 	"PhysicsSendRate" 11 0
 	"PreferredClientPort" 10 0
 	"PrintBits" 9 0
@@ -4526,17 +4500,17 @@
 		28 65535
 	"childAdded" 1
 		28 65535
-"Part" 1441
+"Part" 1445
 	50
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -4549,34 +4523,34 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
 	"formFactorRaw" 7 57
-	"shape" 7 105
+	"shape" 7 103
 	"size" 23 0
 	14
 	"AncestryChanged" 2
@@ -4607,18 +4581,18 @@
 		28 65535
 	"touched" 1
 		28 65535
-"PartOperation" 1492
+"PartOperation" 1496
 	54
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"AssetId" 33 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -4632,12 +4606,12 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"InitialSize" 22 0
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
@@ -4645,19 +4619,19 @@
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"PhysicsData" 8 0
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"UsePartColor" 9 0
@@ -4714,12 +4688,12 @@
 	"childAdded" 1
 		28 65535
 "ParticleEmitter" 65535
-	24
+	23
 	"Acceleration" 22 0
 	"Archivable" 9 0
 	"Color" 38 0
 	"Drag" 11 0
-	"EmissionDirection" 7 100
+	"EmissionDirection" 7 98
 	"Enabled" 9 0
 	"Lifetime" 37 0
 	"LightEmission" 11 0
@@ -4737,7 +4711,6 @@
 	"Texture" 33 0
 	"Transparency" 35 0
 	"VelocityInheritance" 11 0
-	"VelocitySpread" 11 0
 	"ZOffset" 11 0
 	8
 	"AncestryChanged" 2
@@ -4757,9 +4730,8 @@
 	"childAdded" 1
 		28 65535
 "PathfindingService" 65535
-	5
+	4
 	"Archivable" 9 0
-	"EmptyCutoff" 11 0
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
@@ -4973,11 +4945,11 @@
 		12 65535
 	"Kill" 0
 	"OnTeleport" 3
-		7 148
+		7 147
 		10 65535
 		1 65535
 	"OnTeleportInternal" 3
-		7 148
+		7 147
 		31 65535
 		28 65535
 	"RemoteFriendRequestSignal" 2
@@ -5003,7 +4975,7 @@
 	"Archivable" 9 0
 	"Name" 1 0
 	"RobloxLocked" 9 0
-	"ScreenOrientation" 7 133
+	"ScreenOrientation" 7 132
 	"SelectionImageObject" 28 0
 	"Tags" 8 0
 	7
@@ -5030,7 +5002,7 @@
 	"PreferredPlayersInternal" 10 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	22
+	20
 	"AncestryChanged" 2
 		28 65535
 		28 65535
@@ -5055,10 +5027,8 @@
 	"OnLinkedScriptsUpdated" 0
 	"PlayerAdded" 1
 		28 65535
-	"PlayerAddedEarly" 1
-		28 65535
 	"PlayerChatted" 4
-		7 113
+		7 112
 		28 65535
 		1 65535
 		28 65535
@@ -5069,8 +5039,6 @@
 	"PlayerRejoining" 1
 		28 65535
 	"PlayerRemoving" 1
-		28 65535
-	"PlayerRemovingLate" 1
 		28 65535
 	"RequestCloudEditImmediatePublish" 0
 	"RequestCloudEditKick" 1
@@ -5132,8 +5100,8 @@
 	9
 	"Archivable" 9 0
 	"CFrame" 27 0
-	"EasingDirection" 7 114
-	"EasingStyle" 7 115
+	"EasingDirection" 7 113
+	"EasingStyle" 7 114
 	"MaskWeight" 11 0
 	"Name" 1 0
 	"RobloxLocked" 9 0
@@ -5553,41 +5521,21 @@
 		29 65535
 	"childAdded" 1
 		28 65535
-"RenderHooksService" 65535
-	4
-	"Archivable" 9 0
-	"Name" 1 0
-	"RobloxLocked" 9 0
-	"Tags" 8 0
-	6
-	"AncestryChanged" 2
-		28 65535
-		28 65535
-	"ChildAdded" 1
-		28 65535
-	"ChildRemoved" 1
-		28 65535
-	"DescendantAdded" 1
-		28 65535
-	"DescendantRemoving" 1
-		28 65535
-	"childAdded" 1
-		28 65535
 "RenderSettings" 65535
 	16
 	"Archivable" 9 0
 	"AutoFRMLevel" 10 0
 	"EagerBulkExecution" 9 0
-	"EditQualityLevel" 7 121
+	"EditQualityLevel" 7 120
 	"ExportMergeByMaterial" 9 0
 	"FrameRateManager" 7 59
 	"GraphicsMode" 7 67
 	"MeshCacheSize" 10 0
 	"Name" 1 0
-	"QualityLevel" 7 121
+	"QualityLevel" 7 120
 	"ReloadAssets" 9 0
 	"RenderCSGTrianglesDebug" 9 0
-	"Resolution" 7 124
+	"Resolution" 7 123
 	"RobloxLocked" 9 0
 	"ShowBoundingBoxes" 9 0
 	"Tags" 8 0
@@ -5905,10 +5853,11 @@
 	"childAdded" 1
 		28 65535
 "ScreenGui" 65535
-	9
+	10
 	"Archivable" 9 0
 	"DisplayOrder" 10 0
 	"Enabled" 9 0
+	"Localize" 9 0
 	"Name" 1 0
 	"ReplicatingAbsolutePosition" 24 0
 	"ReplicatingAbsoluteSize" 24 0
@@ -5969,13 +5918,9 @@
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	8
+	7
 	"AncestryChanged" 2
 		28 65535
-		28 65535
-	"CamelCaseViolation" 3
-		28 65535
-		1 65535
 		28 65535
 	"ChildAdded" 1
 		28 65535
@@ -6045,7 +5990,7 @@
 	"childAdded" 1
 		28 65535
 "ScrollingFrame" 65535
-	43
+	44
 	"Active" 9 0
 	"AnchorPoint" 21 0
 	"Archivable" 9 0
@@ -6060,8 +6005,9 @@
 	"DragBeginConnectionCount" 10 0
 	"DragStoppedConnectionCount" 10 0
 	"Draggable" 9 0
-	"HorizontalScrollBarInset" 7 134
+	"HorizontalScrollBarInset" 7 133
 	"LayoutOrder" 10 0
+	"Localize" 9 0
 	"MidImage" 33 0
 	"MouseEnterConnectionCount" 10 0
 	"MouseLeaveConnectionCount" 10 0
@@ -6081,12 +6027,12 @@
 	"Selectable" 9 0
 	"SelectionImageObject" 28 0
 	"Size" 14 0
-	"SizeConstraint" 7 136
+	"SizeConstraint" 7 135
 	"SizeFromContents" 9 0
 	"Tags" 8 0
 	"TopImage" 33 0
-	"VerticalScrollBarInset" 7 134
-	"VerticalScrollBarPosition" 7 170
+	"VerticalScrollBarInset" 7 133
+	"VerticalScrollBarPosition" 7 171
 	"Visible" 9 0
 	"ZIndex" 10 0
 	24
@@ -6131,24 +6077,24 @@
 	"SelectionLost" 0
 	"TouchLongPress" 2
 		30 65535
-		7 167
+		7 166
 	"TouchPan" 4
 		30 65535
 		21 65535
 		21 65535
-		7 167
+		7 166
 	"TouchPinch" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchRotate" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchSwipe" 2
-		7 146
+		7 145
 		10 65535
 	"TouchTap" 1
 		30 65535
@@ -6160,11 +6106,11 @@
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -6178,34 +6124,34 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
 	"formFactorRaw" 7 57
-	"shape" 7 105
+	"shape" 7 103
 	"size" 23 0
 	16
 	"AncestryChanged" 2
@@ -6475,11 +6421,11 @@
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -6492,11 +6438,11 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
@@ -6504,11 +6450,11 @@
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
@@ -6518,12 +6464,12 @@
 	"Throttle" 10 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
 	"formFactorRaw" 7 57
-	"shape" 7 105
+	"shape" 7 103
 	"size" 23 0
 	21
 	"AncestryChanged" 2
@@ -6705,7 +6651,7 @@
 	"PlaybackSpeed" 11 0
 	"Playing" 9 0
 	"RobloxLocked" 9 0
-	"RollOffMode" 7 127
+	"RollOffMode" 7 126
 	"SoundGroup" 28 0
 	"SoundId" 33 0
 	"Tags" 8 0
@@ -6775,7 +6721,7 @@
 		28 65535
 "SoundService" 65535
 	9
-	"AmbientReverb" 7 125
+	"AmbientReverb" 7 124
 	"Archivable" 9 0
 	"DistanceFactor" 11 0
 	"DopplerScale" 11 0
@@ -6827,11 +6773,11 @@
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -6846,23 +6792,23 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Neutral" 9 0
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
@@ -6870,12 +6816,12 @@
 	"TeamColor" 18 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
 	"formFactorRaw" 7 57
-	"shape" 7 105
+	"shape" 7 103
 	"size" 23 0
 	14
 	"AncestryChanged" 2
@@ -6994,7 +6940,7 @@
 	"Brightness" 11 0
 	"Color" 19 0
 	"Enabled" 9 0
-	"Face" 7 100
+	"Face" 7 98
 	"Name" 1 0
 	"Range" 11 0
 	"RobloxLocked" 9 0
@@ -7099,7 +7045,7 @@
 	"Name" 1 0
 	"ResetPlayerGuiOnSpawn" 9 0
 	"RobloxLocked" 9 0
-	"ScreenOrientation" 7 133
+	"ScreenOrientation" 7 132
 	"ShowDevelopmentGui" 9 0
 	"Tags" 8 0
 	7
@@ -7301,22 +7247,22 @@
 	"Only Play Audio from Window in Focus" 9 0
 	"Operator Color" 19 0
 	"Output Font" 0 0
-	"Output Layout Mode" 7 101
+	"Output Layout Mode" 7 99
 	"OverrideCoreScripts" 9 0
 	"OverrideCoreScriptsDir" 0 0
-	"PermissionLevelShown" 7 107
+	"PermissionLevelShown" 7 106
 	"PluginsDir" 0 0
 	"Preprocessor Color" 19 0
 	"RecentSavesDir" 0 0
 	"Render Throttle Percentage" 10 0
 	"RobloxLocked" 9 0
-	"RuntimeUndoBehavior" 7 129
+	"RuntimeUndoBehavior" 7 128
 	"ScriptTimeoutLength" 10 0
 	"Select Color" 19 0
 	"Select/Hover Color" 19 0
 	"Selection Background Color" 19 0
 	"Selection Color" 19 0
-	"Server Audio Behavior" 7 135
+	"Server Audio Behavior" 7 134
 	"Show Core GUI in Explorer while Playing" 9 0
 	"Show Diagnostics Bar" 9 0
 	"Show Hover Over" 9 0
@@ -7327,7 +7273,7 @@
 	"Tags" 8 0
 	"Text Color" 19 0
 	"Text Wrapping" 9 0
-	"UI Style" 7 163
+	"UI Style" 7 162
 	"Warning Color" 19 0
 	6
 	"AncestryChanged" 2
@@ -7367,15 +7313,16 @@
 	"childAdded" 1
 		28 65535
 "SurfaceGui" 65535
-	13
+	14
 	"Active" 9 0
 	"Adornee" 28 0
 	"AlwaysOnTop" 9 0
 	"Archivable" 9 0
 	"CanvasSize" 21 0
 	"Enabled" 9 0
-	"Face" 7 100
+	"Face" 7 98
 	"LightInfluence" 11 0
+	"Localize" 9 0
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
@@ -7402,7 +7349,7 @@
 	"Brightness" 11 0
 	"Color" 19 0
 	"Enabled" 9 0
-	"Face" 7 100
+	"Face" 7 98
 	"Name" 1 0
 	"Range" 11 0
 	"RobloxLocked" 9 0
@@ -7430,7 +7377,7 @@
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	"TargetSurface" 7 100
+	"TargetSurface" 7 98
 	"Transparency" 11 0
 	"Visible" 9 0
 	6
@@ -7453,11 +7400,11 @@
 	"AreArbitersThrottled" 9 0
 	"Concurrency" 7 28
 	"Name" 1 0
-	"PriorityMethod" 7 116
+	"PriorityMethod" 7 115
 	"RobloxLocked" 9 0
-	"SleepAdjustMethod" 7 137
+	"SleepAdjustMethod" 7 136
 	"Tags" 8 0
-	"ThreadPoolConfig" 7 154
+	"ThreadPoolConfig" 7 153
 	"ThrottledJobSleepTime" 12 0
 	6
 	"AncestryChanged" 2
@@ -7542,17 +7489,17 @@
 		28 65535
 	"childAdded" 1
 		28 65535
-"Terrain" 2557
+"Terrain" 2558
 	53
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -7565,29 +7512,29 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
@@ -7686,7 +7633,7 @@
 	"childAdded" 1
 		28 65535
 "TextBox" 65535
-	47
+	48
 	"Active" 9 0
 	"AnchorPoint" 21 0
 	"Archivable" 9 0
@@ -7701,6 +7648,7 @@
 	"Draggable" 9 0
 	"Font" 7 55
 	"LayoutOrder" 10 0
+	"Localize" 9 0
 	"MouseEnterConnectionCount" 10 0
 	"MouseLeaveConnectionCount" 10 0
 	"MouseMovedConnectionCount" 10 0
@@ -7719,7 +7667,7 @@
 	"SelectionImageObject" 28 0
 	"ShowNativeInput" 9 0
 	"Size" 14 0
-	"SizeConstraint" 7 136
+	"SizeConstraint" 7 135
 	"SizeFromContents" 9 0
 	"Tags" 8 0
 	"Text" 2 0
@@ -7730,8 +7678,8 @@
 	"TextStrokeTransparency" 11 0
 	"TextTransparency" 11 0
 	"TextWrapped" 9 0
-	"TextXAlignment" 7 150
-	"TextYAlignment" 7 151
+	"TextXAlignment" 7 149
+	"TextYAlignment" 7 150
 	"Visible" 9 0
 	"ZIndex" 10 0
 	26
@@ -7780,31 +7728,31 @@
 	"SelectionLost" 0
 	"TouchLongPress" 2
 		30 65535
-		7 167
+		7 166
 	"TouchPan" 4
 		30 65535
 		21 65535
 		21 65535
-		7 167
+		7 166
 	"TouchPinch" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchRotate" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchSwipe" 2
-		7 146
+		7 145
 		10 65535
 	"TouchTap" 1
 		30 65535
 	"childAdded" 1
 		28 65535
 "TextButton" 65535
-	54
+	55
 	"Active" 9 0
 	"AnchorPoint" 21 0
 	"Archivable" 9 0
@@ -7819,6 +7767,7 @@
 	"Draggable" 9 0
 	"Font" 7 55
 	"LayoutOrder" 10 0
+	"Localize" 9 0
 	"Modal" 9 0
 	"MouseButton1ClickConnectionCount" 10 0
 	"MouseButton1DownConnectionCount" 10 0
@@ -7843,7 +7792,7 @@
 	"Selected" 9 0
 	"SelectionImageObject" 28 0
 	"Size" 14 0
-	"SizeConstraint" 7 136
+	"SizeConstraint" 7 135
 	"SizeFromContents" 9 0
 	"Style" 7 13
 	"Tags" 8 0
@@ -7855,8 +7804,8 @@
 	"TextStrokeTransparency" 11 0
 	"TextTransparency" 11 0
 	"TextWrapped" 9 0
-	"TextXAlignment" 7 150
-	"TextYAlignment" 7 151
+	"TextXAlignment" 7 149
+	"TextYAlignment" 7 150
 	"Visible" 9 0
 	"ZIndex" 10 0
 	31
@@ -7917,31 +7866,31 @@
 	"SelectionLost" 0
 	"TouchLongPress" 2
 		30 65535
-		7 167
+		7 166
 	"TouchPan" 4
 		30 65535
 		21 65535
 		21 65535
-		7 167
+		7 166
 	"TouchPinch" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchRotate" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchSwipe" 2
-		7 146
+		7 145
 		10 65535
 	"TouchTap" 1
 		30 65535
 	"childAdded" 1
 		28 65535
 "TextLabel" 65535
-	44
+	45
 	"Active" 9 0
 	"AnchorPoint" 21 0
 	"Archivable" 9 0
@@ -7955,6 +7904,7 @@
 	"Draggable" 9 0
 	"Font" 7 55
 	"LayoutOrder" 10 0
+	"Localize" 9 0
 	"MouseEnterConnectionCount" 10 0
 	"MouseLeaveConnectionCount" 10 0
 	"MouseMovedConnectionCount" 10 0
@@ -7971,7 +7921,7 @@
 	"Selectable" 9 0
 	"SelectionImageObject" 28 0
 	"Size" 14 0
-	"SizeConstraint" 7 136
+	"SizeConstraint" 7 135
 	"SizeFromContents" 9 0
 	"Tags" 8 0
 	"Text" 2 0
@@ -7982,8 +7932,8 @@
 	"TextStrokeTransparency" 11 0
 	"TextTransparency" 11 0
 	"TextWrapped" 9 0
-	"TextXAlignment" 7 150
-	"TextYAlignment" 7 151
+	"TextXAlignment" 7 149
+	"TextYAlignment" 7 150
 	"Visible" 9 0
 	"ZIndex" 10 0
 	24
@@ -8028,24 +7978,24 @@
 	"SelectionLost" 0
 	"TouchLongPress" 2
 		30 65535
-		7 167
+		7 166
 	"TouchPan" 4
 		30 65535
 		21 65535
 		21 65535
-		7 167
+		7 166
 	"TouchPinch" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchRotate" 4
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 	"TouchSwipe" 2
-		7 146
+		7 145
 		10 65535
 	"TouchTap" 1
 		30 65535
@@ -8075,7 +8025,7 @@
 	10
 	"Archivable" 9 0
 	"Color3" 19 0
-	"Face" 7 100
+	"Face" 7 98
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"StudsPerTileU" 11 0
@@ -8083,26 +8033,6 @@
 	"Tags" 8 0
 	"Texture" 33 0
 	"Transparency" 11 0
-	6
-	"AncestryChanged" 2
-		28 65535
-		28 65535
-	"ChildAdded" 1
-		28 65535
-	"ChildRemoved" 1
-		28 65535
-	"DescendantAdded" 1
-		28 65535
-	"DescendantRemoving" 1
-		28 65535
-	"childAdded" 1
-		28 65535
-"TextureContentProvider" 65535
-	4
-	"Archivable" 9 0
-	"Name" 1 0
-	"RobloxLocked" 9 0
-	"Tags" 8 0
 	6
 	"AncestryChanged" 2
 		28 65535
@@ -8276,7 +8206,7 @@
 	"Tags" 8 0
 	"Texture" 33 0
 	"TextureLength" 11 0
-	"TextureMode" 7 152
+	"TextureMode" 7 151
 	"Transparency" 35 0
 	6
 	"AncestryChanged" 2
@@ -8323,11 +8253,11 @@
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -8340,34 +8270,34 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
 	"size" 23 0
-	"style" 7 143
+	"style" 7 142
 	14
 	"AncestryChanged" 2
 		28 65535
@@ -8412,7 +8342,7 @@
 	"ChildRemoved" 1
 		28 65535
 	"Completed" 1
-		7 111
+		7 110
 	"DescendantAdded" 1
 		28 65535
 	"DescendantRemoving" 1
@@ -8472,10 +8402,10 @@
 	"HorizontalAlignment" 7 69
 	"Name" 1 0
 	"RobloxLocked" 9 0
-	"SortOrder" 7 138
-	"StartCorner" 7 141
+	"SortOrder" 7 137
+	"StartCorner" 7 140
 	"Tags" 8 0
-	"VerticalAlignment" 7 169
+	"VerticalAlignment" 7 170
 	6
 	"AncestryChanged" 2
 		28 65535
@@ -8498,9 +8428,9 @@
 	"Name" 1 0
 	"Padding" 13 0
 	"RobloxLocked" 9 0
-	"SortOrder" 7 138
+	"SortOrder" 7 137
 	"Tags" 8 0
-	"VerticalAlignment" 7 169
+	"VerticalAlignment" 7 170
 	6
 	"AncestryChanged" 2
 		28 65535
@@ -8540,21 +8470,24 @@
 	"childAdded" 1
 		28 65535
 "UIPageLayout" 65535
-	14
+	17
 	"Animated" 9 0
 	"Archivable" 9 0
 	"Circular" 9 0
 	"EasingDirection" 7 48
 	"EasingStyle" 7 49
 	"FillDirection" 7 53
+	"GamepadInputEnabled" 9 0
 	"HorizontalAlignment" 7 69
 	"Name" 1 0
 	"Padding" 13 0
 	"RobloxLocked" 9 0
-	"SortOrder" 7 138
+	"ScrollWheelInputEnabled" 9 0
+	"SortOrder" 7 137
 	"Tags" 8 0
+	"TouchInputEnabled" 9 0
 	"TweenTime" 11 0
-	"VerticalAlignment" 7 169
+	"VerticalAlignment" 7 170
 	9
 	"AncestryChanged" 2
 		28 65535
@@ -8625,13 +8558,13 @@
 	"FillEmptySpaceColumns" 9 0
 	"FillEmptySpaceRows" 9 0
 	"HorizontalAlignment" 7 69
-	"MajorAxis" 7 147
+	"MajorAxis" 7 146
 	"Name" 1 0
 	"Padding" 14 0
 	"RobloxLocked" 9 0
-	"SortOrder" 7 138
+	"SortOrder" 7 137
 	"Tags" 8 0
-	"VerticalAlignment" 7 169
+	"VerticalAlignment" 7 170
 	6
 	"AncestryChanged" 2
 		28 65535
@@ -8668,18 +8601,18 @@
 		28 65535
 	"childAdded" 1
 		28 65535
-"UnionOperation" 2991
+"UnionOperation" 2994
 	54
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"AssetId" 33 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -8693,12 +8626,12 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"InitialSize" 22 0
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
@@ -8706,19 +8639,19 @@
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"PhysicsData" 8 0
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"UsePartColor" 9 0
@@ -8754,7 +8687,7 @@
 	"touched" 1
 		28 65535
 "UserGameSettings" 65535
-	24
+	26
 	"AllTutorialsDisabled" 9 0
 	"Archivable" 9 0
 	"CameraMode" 7 36
@@ -8765,19 +8698,21 @@
 	"ControlMode" 7 32
 	"Fullscreen" 9 0
 	"GamepadCameraSensitivity" 11 0
+	"HasEverUsedVR" 9 0
 	"MasterVolume" 11 0
 	"MouseSensitivity" 11 0
 	"Name" 1 0
 	"PerformanceStatsVisible" 9 0
 	"RobloxLocked" 9 0
-	"RotationType" 7 128
-	"SavedQualityLevel" 7 131
+	"RotationType" 7 127
+	"SavedQualityLevel" 7 130
 	"Tags" 8 0
-	"TouchCameraMovementMode" 7 160
-	"TouchMovementMode" 7 161
+	"TouchCameraMovementMode" 7 159
+	"TouchMovementMode" 7 160
 	"UsedCoreGuiIsVisibleToggle" 9 0
 	"UsedCustomGuiIsVisibleToggle" 9 0
 	"UsedHideHudShortcut" 9 0
+	"VREnabled" 9 0
 	"VRRotationIntensity" 10 0
 	9
 	"AncestryChanged" 2
@@ -8806,7 +8741,7 @@
 	"MouseBehavior" 7 94
 	"MouseIconEnabled" 9 0
 	"Name" 1 0
-	"OverrideMouseIconBehavior" 7 102
+	"OverrideMouseIconBehavior" 7 100
 	"RobloxLocked" 9 0
 	"Tags" 8 0
 	31
@@ -8829,9 +8764,9 @@
 		28 65535
 		27 65535
 	"GamepadConnected" 1
-		7 168
+		7 167
 	"GamepadDisconnected" 1
-		7 168
+		7 167
 	"InputBegan" 2
 		28 65535
 		9 65535
@@ -8843,7 +8778,7 @@
 		9 65535
 	"JumpRequest" 0
 	"LastInputTypeChanged" 1
-		7 168
+		7 167
 	"TextBoxFocusReleased" 1
 		28 65535
 	"TextBoxFocused" 1
@@ -8853,7 +8788,7 @@
 		9 65535
 	"TouchLongPress" 3
 		30 65535
-		7 167
+		7 166
 		9 65535
 	"TouchMoved" 2
 		28 65535
@@ -8862,25 +8797,25 @@
 		30 65535
 		21 65535
 		21 65535
-		7 167
+		7 166
 		9 65535
 	"TouchPinch" 5
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 		9 65535
 	"TouchRotate" 5
 		30 65535
 		11 65535
 		11 65535
-		7 167
+		7 166
 		9 65535
 	"TouchStarted" 2
 		28 65535
 		9 65535
 	"TouchSwipe" 3
-		7 146
+		7 145
 		10 65535
 		9 65535
 	"TouchTap" 2
@@ -8890,7 +8825,7 @@
 		21 65535
 		9 65535
 	"UserCFrameChanged" 2
-		7 166
+		7 165
 		27 65535
 	"WindowFocusReleased" 0
 	"WindowFocused" 0
@@ -8899,11 +8834,11 @@
 "VRService" 65535
 	5
 	"Archivable" 9 0
-	"GuiInputUserCFrame" 7 166
+	"GuiInputUserCFrame" 7 165
 	"Name" 1 0
 	"RobloxLocked" 9 0
 	"Tags" 8 0
-	9
+	10
 	"AncestryChanged" 2
 		28 65535
 		28 65535
@@ -8917,12 +8852,15 @@
 		28 65535
 	"NavigationRequested" 2
 		27 65535
-		7 166
+		7 165
+	"TouchpadModeChanged" 2
+		7 168
+		7 169
 	"UserCFrameChanged" 2
-		7 166
+		7 165
 		27 65535
 	"UserCFrameEnabled" 2
-		7 166
+		7 165
 		9 65535
 	"childAdded" 1
 		28 65535
@@ -9001,17 +8939,17 @@
 		28 65535
 	"childAdded" 1
 		28 65535
-"VehicleSeat" 3102
+"VehicleSeat" 3107
 	57
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -9025,12 +8963,12 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"HeadsUpDisplay" 9 0
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
@@ -9038,11 +8976,11 @@
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
@@ -9053,7 +8991,7 @@
 	"ThrottleFloat" 11 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Torque" 11 0
 	"Transparency" 11 0
@@ -9160,17 +9098,17 @@
 		28 65535
 	"childAdded" 1
 		28 65535
-"WedgePart" 3179
+"WedgePart" 3184
 	49
 	"Anchored" 9 0
 	"Archivable" 9 0
 	"BackParamA" 11 0
 	"BackParamB" 11 0
-	"BackSurface" 7 145
+	"BackSurface" 7 144
 	"BackSurfaceInput" 7 79
 	"BottomParamA" 11 0
 	"BottomParamB" 11 0
-	"BottomSurface" 7 145
+	"BottomSurface" 7 144
 	"BottomSurfaceInput" 7 79
 	"BrickColor" 18 0
 	"CFrame" 27 0
@@ -9183,29 +9121,29 @@
 	"Friction" 11 0
 	"FrontParamA" 11 0
 	"FrontParamB" 11 0
-	"FrontSurface" 7 145
+	"FrontSurface" 7 144
 	"FrontSurfaceInput" 7 79
 	"LeftParamA" 11 0
 	"LeftParamB" 11 0
-	"LeftSurface" 7 145
+	"LeftSurface" 7 144
 	"LeftSurfaceInput" 7 79
 	"Locked" 9 0
 	"Material" 7 90
 	"Name" 1 0
 	"NetworkIsSleeping" 9 0
 	"NetworkOwnerV3" 34 0
-	"NetworkOwnershipRule" 7 99
+	"NetworkOwnershipRule" 7 97
 	"Reflectance" 11 0
 	"RightParamA" 11 0
 	"RightParamB" 11 0
-	"RightSurface" 7 145
+	"RightSurface" 7 144
 	"RightSurfaceInput" 7 79
 	"RobloxLocked" 9 0
 	"RotVelocity" 22 0
 	"Tags" 8 0
 	"TopParamA" 11 0
 	"TopParamB" 11 0
-	"TopSurface" 7 145
+	"TopSurface" 7 144
 	"TopSurfaceInput" 7 79
 	"Transparency" 11 0
 	"Velocity" 22 0
@@ -9265,8 +9203,10 @@
 	"childAdded" 1
 		28 65535
 "WeldConstraint" 65535
-	7
+	9
 	"Archivable" 9 0
+	"CFrame0" 27 0
+	"CFrame1" 27 0
 	"Enabled" 9 0
 	"Name" 1 0
 	"Part0" 28 0
